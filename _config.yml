@@ -1,21 +1,70 @@
-# Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# User settings
-username: Mauricio Urraco
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff.
-user_title: Software Engineer
-email: glow216@naver.com
-github_username: mhlee216
+title: Bay Jekyll Theme
+description: >- # this means to ignore newlines until "baseurl:"
+  Bay is a minimal Jekyll Theme.
+og_image: /assets/img/profile-pic.jpg
+google_analytics: "UA-121636368-3"
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Work
+    - name: Blog
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: glow216@naver.com
+      link: glow216@naver.com
+    - name: WeChat
+      value: YourWeChatUsername
+      link: "#"
+  follow:
+    #- name: Twitter
+    #  link: http://twitter.com/YourTwitterUsername
+    #  username: "@YourTwitterUsername"
+    #- name: Facebook
+    #  link: http://facebook.com/YourFacebookUsername
+    #- name: LinkedIn
+    #  link: http://linkedin.com/in/YourLinkedInUsername
+    - name: GitHub
+      link: http://github.com/mhlee216
+    #- name: Dribbble
+    #  link: https://dribbble.com/YourDribbbleUsername
+    - name: RSS
+      link: /feed.xml
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
 
 
-exclude: ['package.json', 'src' , 'node_modules']
 
 
-
-
-remote_theme : murraco/jekyll-theme-minimal-resume
+remote_theme : eliottvincent/bay
 
 url : "https://mhlee216.github.io"
 baseurl : "" 
