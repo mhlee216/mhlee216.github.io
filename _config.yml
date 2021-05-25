@@ -20,9 +20,9 @@ footer:
     - name: Email
       value: glow216@naver.com
       link: glow216@naver.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+    #- name: WeChat
+    #  value: YourWeChatUsername
+    #  link: "#"
   follow:
     #- name: Twitter
     #  link: http://twitter.com/YourTwitterUsername
@@ -35,8 +35,8 @@ footer:
       link: http://github.com/mhlee216
     #- name: Dribbble
     #  link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+    #- name: RSS
+    #  link: /feed.xml
 
 # Build settings
 markdown: kramdown
