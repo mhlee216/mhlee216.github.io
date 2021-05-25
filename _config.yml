@@ -1,46 +1,21 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title: Mauricio Urraco
+description: Jekyll Theme Minimal Resume
 
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
+# User settings
+username: Mauricio Urraco
+user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff.
+user_title: Software Engineer
+email: glow216@naver.com
+github_username: mhlee216
 
-# Author
-author:
-  name:         Chester How
-  url:          https://github.com/mhlee216
-  email:        glow216@naver.com
 
-# Build settings
-markdown:       kramdown
-include:
-  - _pages
-
-# Assets
-sass:
-  sass_dir:     _sass
-  style:        compressed
-
-# Gems
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-seo-tag
-  # - jemoji #Uncomment this to allow emoji in your post
-
-# Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       5
-
-# Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
-
-# Disqus (Set to your disqus id)
-disqus:         jekyll-tale
+exclude: ['package.json', 'src' , 'node_modules']
 
 
 
-remote_theme : chesterhow/tale
+
+remote_theme : murraco/jekyll-theme-minimal-resume
 
 url : "https://mhlee216.github.io"
 baseurl : "" 
