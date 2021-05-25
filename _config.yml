@@ -19,7 +19,7 @@ footer:
   contact:
     - name: Email
       value: glow216@naver.com
-      link: glow216@naver.com
+      link: mailto:glow216@naver.com
     #- name: WeChat
     #  value: YourWeChatUsername
     #  link: "#"
