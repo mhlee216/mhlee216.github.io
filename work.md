@@ -14,13 +14,13 @@ items:
     image:
       src: /assets/img/work/malaria.png
       alt: malaria
-    description: Gene co-expression network from scRNA-seq data of the human malaria parasite Plasmodium falciparum for life cycle analysis. Datasets are from <a href="https://doi.org/10.1016/j.yexcr.2018.08.003">Exploring parasite heterogeneity using single-cell RNA-seq reveals a gene signature among sexual stage Plasmodium falciparum parasites</a>.
+    description: Analysis of Gene co-expression network from scRNA-seq data of the human malaria parasite Plasmodium falciparum for life cycle analysis using Node2Vec. Datasets are from <a href="https://doi.org/10.1016/j.yexcr.2018.08.003">Exploring parasite heterogeneity using single-cell RNA-seq reveals a gene signature among sexual stage Plasmodium falciparum parasites</a>.
     
   - title: COVID-19 Nature Papers NLP (<a href="https://github.com/mhlee216/COVID-19_Nature_Papers_NLP">GitHub</a>)
     image:
       src: /assets/img/work/covid-19.jpg
       alt: covid-19
-    description: Latent Dirichlet Allocation (LDA) and Word2Vec (Skip-gram) analysis of the literature of keywords search results for 'SARS-CoV-2' and 'COVID-19' in journal, <a href="https://www.nature.com/search?q=SARS-CoV-2&journal=">Nature</a>. An attempt to practice using ChemDataExtractor and web crawling.
+    description: Latent Dirichlet Allocation (LDA) and Word2Vec (Skip-gram) analysis of the literature of keywords search results for 'SARS-CoV-2' and 'COVID-19' in journal, <a href="https://www.nature.com/search?q=SARS-CoV-2&journal=">Nature</a>. This is one of my attempts to practice using ChemDataExtractor and web crawling.
     
   - title: Classification of Protein-Protein Interaction Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/Protein_Protein_Interaction_Prediction_GCN">GitHub</a>)
     image:
