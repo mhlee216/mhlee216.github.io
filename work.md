@@ -12,7 +12,7 @@ items:
     
   - title: Node Clustering of Gene Co-expression Network from Single-cell RNA Sequencing Using Node2Vec (<a href="https://github.com/mhlee216/Gene_Clustering_Node2Vec">GitHub</a>)
     image:
-      src: /assets/img/work/malaria.jpg
+      src: /assets/img/work/malaria.png
       alt: malaria
     description: Gene co-expression network from scRNA-seq data of the human malaria parasite Plasmodium falciparum for life cycle analysis. Datasets are from <a href="https://doi.org/10.1016/j.yexcr.2018.08.003">Exploring parasite heterogeneity using single-cell RNA-seq reveals a gene signature among sexual stage Plasmodium falciparum parasites</a>.
     
