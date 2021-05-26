@@ -8,7 +8,13 @@ items:
     image:
       src: /assets/img/work/docking.jpg
       alt: docking
-    description: AutoDock Vina binding free energy (BFE, kcal/mol) prediction for fast drug discovery using graph convolutional networks. Datasets are made by <a href="https://github.com/omarwagih/covid19-docking">Omar Wagih</a>.
+    description: COVID-19 Mpro binding free energy (kcal/mol, calculated by AutoDock Vina) prediction for fast drug discovery using graph convolutional networks. Datasets are made by <a href="https://github.com/omarwagih/covid19-docking">Omar Wagih</a>.
+    
+  - title: Node Clustering of Gene Co-expression Networks from Single-cell RNA Sequencing Using Node2Vec (<a href="https://github.com/mhlee216/Gene_Clustering_Node2Vec">GitHub</a>)
+    image:
+      src: /assets/img/work/malaria.png
+      alt: malaria
+    description: Gene co-expression network from scRNA-seq data of the human malaria parasite Plasmodium falciparum for life cycle analysis. Datasets are from <a href="https://doi.org/10.1016/j.yexcr.2018.08.003">Exploring parasite heterogeneity using single-cell RNA-seq reveals a gene signature among sexual stage Plasmodium falciparum parasites</a>.
     
   - title: COVID-19 Nature Papers NLP (<a href="https://github.com/mhlee216/COVID-19_Nature_Papers_NLP">GitHub</a>)
     image:
