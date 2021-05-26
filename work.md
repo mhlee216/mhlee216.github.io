@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/protein.jpg
       alt: protein
-    description:  Multi-input GCN model for classification of protein-protein interaction by PyTorch, PyTorch Geometric (PyG), Biotite. Dataset is from <a href="https://github.com/baranwa2/Struct2Graph">Struct2Graph</a>.
+    description:  Multi-input Graph Convolutional Networks for classification of protein-protein interaction by PyTorch, PyTorch Geometric (PyG), Biotite. Dataset is from <a href="https://github.com/baranwa2/Struct2Graph">Struct2Graph</a>.
   - title: Classification of Biodegradable Materials Using Graph Convolutional Networks
     image:
       src: /assets/img/work/biodegradable.png
