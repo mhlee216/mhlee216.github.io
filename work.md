@@ -14,7 +14,7 @@ items:
     image:
       src: /assets/img/work/malaria.png
       alt: malaria
-    description: Analysis of Gene co-expression network from scRNA-seq data of the human malaria parasite Plasmodium falciparum for life cycle analysis using Node2Vec. Datasets are from <a href="https://doi.org/10.1016/j.yexcr.2018.08.003">Exploring parasite heterogeneity using single-cell RNA-seq reveals a gene signature among sexual stage Plasmodium falciparum parasites</a>.
+    description: Analysis of gene co-expression network from scRNA-seq data of the malaria parasite for life cycle analysis using Node2Vec. Datasets are from <a href="https://doi.org/10.1016/j.yexcr.2018.08.003">Exploring parasite heterogeneity using single-cell RNA-seq reveals a gene signature among sexual stage Plasmodium falciparum parasites</a>.
     
   - title: COVID-19 Nature Papers NLP (<a href="https://github.com/mhlee216/COVID-19_Nature_Papers_NLP">GitHub</a>)
     image:
