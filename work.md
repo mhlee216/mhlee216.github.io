@@ -12,7 +12,7 @@ items:
     image:
       src: /assets/img/work/biodegradable.png
       alt: biodegradable
-    description: Motivation and dataset : Quantitative Structure–Activity Relationship Models for Ready Biodegradability of Chemicals (https://doi.org/10.1021/ci4000213).
+    description: Motivation and dataset : Quantitative Structure–Activity Relationship Models for Ready Biodegradability of Chemicals.
 ---
 
 My small projects.
