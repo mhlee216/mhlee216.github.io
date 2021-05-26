@@ -7,12 +7,12 @@ items:
     image:
       src: /assets/img/work/protein.jpg
       alt: protein
-    description:  Multi-input Graph Convolutional Networks for classification of protein-protein interaction by PyTorch, PyTorch Geometric (PyG), Biotite. Dataset is from <a href="https://github.com/baranwa2/Struct2Graph">Struct2Graph</a>.
-  - title: Classification of Biodegradable Materials Using Graph Convolutional Networks
+    description:  Multi-input graph convolutional networks for classification of protein-protein interaction by using PyTorch, PyTorch Geometric, Biotite. Dataset is from <a href="https://github.com/baranwa2/Struct2Graph">Struct2Graph</a>.
+  - title: <a href="https://github.com/mhlee216/Biodegradability_Prediction_GCN">Classification of Biodegradable Materials Using Graph Convolutional Networks</a>
     image:
       src: /assets/img/work/biodegradable.png
       alt: biodegradable
-    description: Dataset is from <a href="https://doi.org/10.1021/ci4000213">Quantitative Structure–Activity Relationship Models for Ready Biodegradability of Chemicals</a>.
+    description: Graph convolutional networks vs. QSAR models for classification of ready biodegradable/not ready biodegradable by using PyTorch, PyTorch Geometric, RDKit. Dataset is from <a href="https://doi.org/10.1021/ci4000213">Quantitative Structure–Activity Relationship Models for Ready Biodegradability of Chemicals</a>.
 ---
 
 My small projects.
