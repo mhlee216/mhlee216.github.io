@@ -22,6 +22,8 @@ This includes topics in deep neural network applications, graph representation l
 
 You can find the source codes of my small projects on <a href="https://github.com/mhlee216">GitHub</a>.
 
+<a href="https://github.com/mhlee216/mhlee216.github.io/blob/main/pdf/CV.pdf">CV</a>
+
 
 ## **News**
 
