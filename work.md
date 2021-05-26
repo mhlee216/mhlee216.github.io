@@ -4,11 +4,11 @@ title: Work
 slug: /work
 items:
 
-  - title: COVID-19 Nature Papers NLP (<a href="COVID-19 Nature Papers NLP">GitHub</a>)
+  - title: COVID-19 Nature Papers NLP (<a href="https://github.com/mhlee216/COVID-19_Nature_Papers_NLP">GitHub</a>)
     image:
       src: /assets/img/work/covid-19.jpg
       alt: covid-19
-    description: LDA and Word2Vec analysis of the literature of keywords search results for 'SARS-CoV-2' and 'COVID-19' in journal, Nature.
+    description: LDA and Word2Vec analysis of the literature of keywords search results for 'SARS-CoV-2' and 'COVID-19' in journal, <a href="https://www.nature.com/search?q=SARS-CoV-2&journal=">Nature</a>.
     
   - title: Classification of Protein-Protein Interaction Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/Protein_Protein_Interaction_Prediction_GCN">GitHub</a>)
     image:
