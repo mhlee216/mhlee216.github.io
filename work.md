@@ -36,7 +36,5 @@ items:
     
 ---
 
-There are my little projects.
-
 <br />
 <br />
