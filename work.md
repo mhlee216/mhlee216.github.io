@@ -36,5 +36,7 @@ items:
     
 ---
 
+There is a list of my projects.
+
 <br />
 <br />
