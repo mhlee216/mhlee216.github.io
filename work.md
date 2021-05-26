@@ -1,7 +1,7 @@
 ---
-layout: project
+layout: work
 title: My Small Projects
-slug: /project
+slug: /work
 items:
 
   - title: Prediction of SARS-CoV-2 Main Protease Binding Free Energy Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/COVID-19_Mpro_BFE_Prediction_GCN">GitHub</a>)
