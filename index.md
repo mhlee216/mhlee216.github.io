@@ -29,7 +29,7 @@ You can find the source codes of my small projects on <a href="https://github.co
 
 - **2019.01.** B.S. Intern, Post-Genome Informatics Lab, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea
 
-- **2016.03.** B.S., School of Systems Biomedical Science, Soongsil University, Seoul, South Korea
+- **2016.03.** B.S. Admission, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea
 
 
 
