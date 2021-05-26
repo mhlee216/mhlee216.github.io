@@ -26,7 +26,7 @@ items:
     image:
       src: /assets/img/work/protein.jpg
       alt: protein
-    description:  Multi-input graph convolutional networks for classification of protein-protein interaction by using PyTorch, PyTorch Geometric, Biotite. Datasets are from <a href="https://doi.org/10.1101/2020.09.17.301200">Struct2Graph\: A graph attention network for structure based predictions of protein-protein interactions</a>.
+    description:  Multi-input graph convolutional networks for classification of protein-protein interaction by using PyTorch, PyTorch Geometric, Biotite. Datasets are from <a href="https://doi.org/10.1101/2020.09.17.301200">Struct2Graph, A graph attention network for structure based predictions of protein-protein interactions</a>.
     
   - title: Classification of Biodegradable Materials Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/Biodegradability_Prediction_GCN">GitHub</a>)
     image:
