@@ -3,7 +3,7 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: Classification of Protein-Protein Interaction Using Graph Convolutional Networks (<ahref="https://github.com/mhlee216/Protein_Protein_Interaction_Prediction_GCN">GitHub</a>)
+  - title: Classification of Protein-Protein Interaction Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/Protein_Protein_Interaction_Prediction_GCN">GitHub</a>)
     image:
       src: /assets/img/work/protein.jpg
       alt: protein
