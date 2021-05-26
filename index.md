@@ -27,8 +27,11 @@ You can find the source codes of my small projects on <a href="https://github.co
 
 - **2020.07.** B.S. researcher, Computational Science and Artificial Intelligence Lab, School of Mechanical Engineering, Soongsil University, Seoul, South Korea
 
-- **2019.01.** B.S. Intern, Post-genome Informatics Lab, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea
-  
+- **2019.01.** B.S. Intern, Post-Genome Informatics Lab, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea
+
+- **2016.03.** B.S., School of Systems Biomedical Science, Soongsil University, Seoul, South Korea
+
+
 
 
 
