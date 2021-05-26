@@ -1,8 +1,5 @@
 ---
 layout: home
-title_picture:
-  src: https://github.com/mhlee216/Protein_Protein_Interaction_Prediction_GCN/blob/main/Result.jpg
-  alt: website picture
 profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: website picture
