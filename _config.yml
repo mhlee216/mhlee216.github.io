@@ -4,6 +4,8 @@
 title: Myeonghun Lee
 description: >- # this means to ignore newlines until "baseurl:"
   AI, Bioinformatics, Cheminformatics
+
+title_picture: https://github.com/mhlee216/Protein_Protein_Interaction_Prediction_GCN/blob/main/Result.jpg
 og_image:  /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
