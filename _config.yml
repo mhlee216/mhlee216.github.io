@@ -2,8 +2,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 title: Myeonghun Lee
-description: >- # this means to ignore newlines until "baseurl:"
-  AI, Bioinformatics, Cheminformatics
+description: AI, Bioinformatics, Cheminformatics #>- # this means to ignore newlines until "baseurl:"
 og_image:  /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
