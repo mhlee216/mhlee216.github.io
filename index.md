@@ -19,7 +19,7 @@ This includes topics in deep neural network applications, graph representation l
 You can find the source code of my small projects on <a href="https://github.com/mhlee216">GitHub</a>.
 
 
-## News
+## **News**
 
 - **2020.07.** B.S. researcher, Post-genome Informatics Lab, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea
 
