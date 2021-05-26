@@ -20,7 +20,7 @@ items:
     image:
       src: /assets/img/work/covid-19.jpg
       alt: covid-19
-    description: Latent Dirichlet Allocation (LDA) and Word2Vec (Skip-gram) analysis of the literature of keywords search results for 'SARS-CoV-2' and 'COVID-19' in journal, <a href="https://www.nature.com/search?q=SARS-CoV-2&journal=">Nature</a>. This is one of my attempts to practice using ChemDataExtractor and web crawling.
+    description: Latent Dirichlet Allocation (LDA) and Word2Vec (Skip-gram) analysis of the literature of keywords search results for 'SARS-CoV-2' and 'COVID-19' in journal, <a href="https://www.nature.com/search?q=SARS-CoV-2&journal=">Nature</a>. This is one of my attempts to practice using <a href="http://chemdataextractor.org/">ChemDataExtractor</a> and web crawling.
     
   - title: Classification of Protein-Protein Interaction Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/Protein_Protein_Interaction_Prediction_GCN">GitHub</a>)
     image:
