@@ -3,11 +3,11 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: My Interest 1
+  - title: Classification of Protein-Protein Interaction Using Graph Convolutional Networks
     image:
-      src: /assets/img/work/water.png
-      alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      src: /assets/img/work/protein.jpg
+      alt: protein
+    description: <a href="https://github.com/baranwa2/Struct2Graph">Struct2Graph</a>.
   - title: Classification of Biodegradable Materials Using Graph Convolutional Networks
     image:
       src: /assets/img/work/biodegradable.png
