@@ -20,7 +20,7 @@ I am broadly interested in studying machine learning, bioinformatics, and chemin
 
 This includes topics in deep neural network applications, graph representation learning, drug discovery, and molecule generation.
 
-You can find the source codes of my small projects on <a href="https://github.com/mhlee216">GitHub</a>.
+You can find the source codes of my little projects on <a href="https://github.com/mhlee216">GitHub</a>.
 
 You can read my <a href="https://drive.google.com/file/d/1v26eOKrEVVTj0Jf9tpxyr56gCaiGsrQL/view?usp=sharing">CV</a> if you want.
 
