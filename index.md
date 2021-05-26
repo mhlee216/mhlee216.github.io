@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 
-I am a B.S. student in **School of Systems Biomedical Science** at <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul, South Korea.
+I am a **B.S. student** in **School of Systems Biomedical Science** at <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul, South Korea.
 
 I am double majoring in **Biotechnology, Bioinformatics** and convergence majoring in **Big Data Computing**.
 
