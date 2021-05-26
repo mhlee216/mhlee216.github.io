@@ -6,7 +6,10 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  I am a **B.S. researcher** at the **Computational Science and Artificial Intelligence Lab** at **School of Mechanical Engineering**, <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul, South Korea.
+  
+  I previously interned at **Post-genome Informatics Lab** at **School of Systems Biomedical Science**, Soongsil University.
+  
 </p>
 
 <p>
