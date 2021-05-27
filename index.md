@@ -31,7 +31,7 @@ You can read my <a href="https://drive.google.com/file/d/1ui2h2ubQE5ec7y8EicugML
 
 - **2019.01.** Undergraduate Intern, Post-Genome Informatics Lab, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea
 
-- **2016.03.** Undergraduate Admissions, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea
+- **2016.03.** Undergraduate Admission, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea
 
 
 
