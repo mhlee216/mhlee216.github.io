@@ -1,6 +1,6 @@
 ---
 layout: work
-title: **Work**
+title: Work
 slug: /work
 items:
 
