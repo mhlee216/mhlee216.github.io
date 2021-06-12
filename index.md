@@ -11,8 +11,7 @@ I am an **undergraduate student** in **School of Systems Biomedical Science** at
 I am double majoring in **Biotechnology, Bioinformatics** and convergence majoring in **Big Data Computing**.
 
 
-I am an **undergraduate researcher** at <a href="https://minkyoungmin.wixsite.com/csailab">**Computational Science and Artificial Intelligence Lab**</a> (Prof. Kyoungmin Min) 
-at **School of Mechanical Engineering**, Soongsil University.
+I am an **undergraduate researcher** at **Computational Science and Artificial Intelligence Lab** (Prof. Kyoungmin Min) at **School of Mechanical Engineering**, Soongsil University.
   
 I previously interned at <a href="https://sites.google.com/site/sskimb/">**Post-Genome Informatics Lab**</a> (Prof. Sangsoo Kim) at School of Systems Biomedical Science, Soongsil University.
 
