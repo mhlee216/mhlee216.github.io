@@ -25,7 +25,7 @@ You can read my <a href="https://drive.google.com/file/d/1Gg377AeQMcQaFfYiJoJqmp
 
 ## **News**
 
-- **2021.08.** Submitted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, Myeonghun Lee+, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim*, and Kyoungmin Min*
+- **2021.08.** Submitted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, **Myeonghun Lee**+, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*
 
 - **2020.07.** Undergraduate Researcher, Computational Science and Artificial Intelligence Lab, School of Mechanical Engineering, Soongsil University, Seoul, South Korea
 
