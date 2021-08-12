@@ -36,7 +36,7 @@ items:
     
 ---
 
-There is a list of my projects.
+There is a list of my projects. Some projects can be turned  private.
 
 <br />
 <br />
