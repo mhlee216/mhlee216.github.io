@@ -20,7 +20,7 @@ This includes topics in deep neural network applications, graph representation l
 
 You can find the source codes of my little projects on <a href="https://github.com/mhlee216">GitHub</a>.
 
-You can read my <a href="https://drive.google.com/file/d/1d0D_0bGa83gYI5c8FkG4D7F1w65guAK3/view?usp=sharing">CV</a> if you want.
+You can read my <a href="https://drive.google.com/file/d/1zC9yuKV8UuNImnb6YUo0JRA-nHg9Pq9Z/view?usp=sharing">CV</a> if you want.
 
 
 ## **News**
