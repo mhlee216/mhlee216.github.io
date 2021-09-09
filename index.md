@@ -25,9 +25,9 @@ You can read my <a href="https://drive.google.com/file/d/1ookQolxLVDsGuBh_I9jBi5
 
 ## **News**
 
-- **2021.09.** ACS Fall 2021 Conference Submission, "Graph Convolutional Network for Organic Solvent and Aqueous Solubility Prediction", **Myeonghun Lee**+, Sumin Lee, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*. Morressier. https://doi.org/10.1021/scimeetings.1c01189
+- **2021.09.** ACS Fall 2021 Conference Submission, "Graph Convolutional Network for Organic Solvent and Aqueous Solubility Prediction", **Myeonghun Lee**+, Sumin Lee, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*. Morressier. <a href="https://doi.org/10.1021/scimeetings.1c01189">https://doi.org/10.1021/scimeetings.1c01189</a>
 
-- **2021.09.** ACS Fall 2021 Conference Submission, "Solubility Prediction Using Physicochemical Features via Machine Learning", Sumin Lee+, **Myeonghun Lee**, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*. Morressier. https://doi.org/10.1021/scimeetings.1c01188
+- **2021.09.** ACS Fall 2021 Conference Submission, "Solubility Prediction Using Physicochemical Features via Machine Learning", Sumin Lee+, **Myeonghun Lee**, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*. Morressier. <a href="https://doi.org/10.1021/scimeetings.1c01188">https://doi.org/10.1021/scimeetings.1c01188</a>
 
 - **2021.08.** ACS Fall 2021 Conference Presentation (Oral - Virtual), Graph Convolutional Network for Organic Solvent and Aqueous Solubility Prediction
 
