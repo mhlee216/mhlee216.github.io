@@ -25,13 +25,17 @@ You can read my <a href="https://drive.google.com/file/d/1I6Qi1kJGjPIKy3MteA2cpM
 
 ## **News**
 
+- **2021.11.** 2021 한국인공지능학회 | LG AI연구원 추계 공동학술대회 (Submission & Poster Presentation - Virtual), "Molecular Graph-based Conditional Variable Autoencoder for De Novo Drug Design", **Myeonghun Lee**+, and Kyoungmin Min\*
+
+- **2021.11.** Submitted, "Enhanced Biodegradability Classification through Graph Convolution Networks", **Myeonghun Lee**+, and Kyoungmin Min\*
+
 - **2021.09.** Ranked in the top 10% of DACON competition: Samsung AI Challenge for Scientific Discovery
 
 - **2021.09.** ACS Fall 2021 Conference Submission, "Graph Convolutional Network for Organic Solvent and Aqueous Solubility Prediction", **Myeonghun Lee**+, Sumin Lee, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*. Morressier. <a href="https://doi.org/10.1021/scimeetings.1c01189">https://doi.org/10.1021/scimeetings.1c01189</a>
 
 - **2021.09.** ACS Fall 2021 Conference Submission, "Solubility Prediction Using Physicochemical Features via Machine Learning", Sumin Lee+, **Myeonghun Lee**, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*. Morressier. <a href="https://doi.org/10.1021/scimeetings.1c01188">https://doi.org/10.1021/scimeetings.1c01188</a>
 
-- **2021.08.** ACS Fall 2021 Conference Presentation (Oral - Virtual), Graph Convolutional Network for Organic Solvent and Aqueous Solubility Prediction
+- **2021.08.** ACS Fall 2021 Conference Presentation (Oral - Virtual), "Graph Convolutional Network for Organic Solvent and Aqueous Solubility Prediction"
 
 - **2021.08.** Submitted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, **Myeonghun Lee**+, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*
 
