@@ -25,7 +25,7 @@ You can read my <a href="https://drive.google.com/file/d/1I6Qi1kJGjPIKy3MteA2cpM
 
 ## **News**
 
-- **2021.11.** 2021 한국인공지능학회 | LG AI연구원 추계 공동학술대회 (Submission & Poster Presentation - Virtual), "Molecular Graph-based Conditional Variable Autoencoder for De Novo Drug Design", **Myeonghun Lee**+, and Kyoungmin Min\*
+- **2021.11.** 2021 Korean Artificial Intelligence Associationㅣ LG AI Research Fall Conference (Submission & Poster Presentation - Virtual), "Molecular Graph-based Conditional Variable Autoencoder for De Novo Drug Design", **Myeonghun Lee**+, and Kyoungmin Min\*
 
 - **2021.11.** Submitted, "Enhanced Biodegradability Classification through Graph Convolution Networks", **Myeonghun Lee**+, and Kyoungmin Min\*
 
