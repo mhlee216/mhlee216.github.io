@@ -34,6 +34,13 @@ items:
       alt: biodegradable
     description: Graph convolutional networks vs. QSAR models for classification of ready biodegradable/not ready biodegradable by using PyTorch, PyTorch Geometric, RDKit. Datasets are from <a href="https://doi.org/10.1021/ci4000213">Quantitative Structure–Activity Relationship Models for Ready Biodegradability of Chemicals</a>.
     
+  - title: Efficient Fish Acute Toxicity Prediction Using QSAR Machine Learning Pipeline (<a href="https://github.com/mhlee216/QSAR_Machine_Learning_Pipeline">GitHub</a>)
+    image:
+      src: /assets/img/work/qsar.png
+      alt: qsar
+    description: A project to propose a QSAR machine learning pipeline for the prediction of fish acute toxicity using <a href="https://qsardb.org/repository/handle/10967/1953">QsarDB data</a> as an example.
+    
+
 ---
 
 There is a list of my projects. Some projects can be turned  private.
