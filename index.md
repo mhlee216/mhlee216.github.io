@@ -25,6 +25,9 @@ You can read my <a href="https://drive.google.com/file/d/1SWSoayQr6116C-n680jcfC
 
 ## **News**
 
+- **2021.11.** 2021 Research Data AI Analysis Utilization Contest, "Singlet-Triplet Energy Gap Prediction
+Using Graph Convolutional Network", 2nd place, National Research Council of Science & Technology Chairman's Award
+
 - **2021.11.** 2021 Korea Data Mining Society Fall Conference (Oral), "Enhanced Biodegradability Classification through Graph Convolution Networks", **Myeonghun Lee**+, and Kyoungmin Min\*
 
 - **2021.11.** 2021 Korean Artificial Intelligence Associationㅣ LG AI Research Fall Conference (Poster - Virtual), "Molecular Graph-based Conditional Variable Autoencoder for De Novo Drug Design", **Myeonghun Lee**+, and Kyoungmin Min\*
