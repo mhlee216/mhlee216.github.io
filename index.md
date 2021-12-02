@@ -25,6 +25,8 @@ You can read my <a href="https://drive.google.com/file/d/1SWSoayQr6116C-n680jcfC
 
 ## **News**
 
+- **2021.12.** 2021 Fall International Convention of The Pharmaceutical Society of Korea (Poster), "Multi-class Multi-label Enzyme Function Classification Using Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*.
+
 - **2021.11.** 2021 Research Data AI Analysis Utilization Contest, "Singlet-Triplet Energy Gap Prediction
 Using Graph Convolutional Network", 2nd Place (National Research Council of Science & Technology Chairman's Award, 국가과학기술연구회 이사장상).
 
