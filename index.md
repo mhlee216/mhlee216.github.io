@@ -16,7 +16,7 @@ I previously interned at <a href="https://sites.google.com/site/sskimb/">**Post-
 
 I am broadly interested in studying machine learning, bioinformatics, and cheminformatics.
 
-This includes topics in deep neural network applications, graph representation learning, drug discovery, molecule generation and web scraping.
+This includes topics in deep neural network applications, graph neural networks, drug discovery, molecule generation and web scraping.
 
 You can find the source codes of my little projects on <a href="https://github.com/mhlee216">GitHub</a>.
 
