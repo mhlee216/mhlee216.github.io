@@ -25,7 +25,7 @@ You can read my <a href="https://drive.google.com/file/d/1EruFngyCGPCOzBZ4u0gM2i
 
 ## **News**
 
-- **2021.12.** Accepted, "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*, *ACS Omega*.
+- **2021.12.** Accepted, "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*, * ACS Omega*.
 
 - **2021.12.** 2021 Fall International Convention of The Pharmaceutical Society of Korea (Poster), "Multi-class Multi-label Enzyme Function Classification Using Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*.
 
