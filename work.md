@@ -5,11 +5,11 @@ slug: /work
 items:
 
    
-  - title: A Comparative Study of the Performance for Predicting Biodegradability Classification/: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network (<a href="https://github.com/mhlee216/Biodegradability_Prediction_QSAR_GCN">GitHub</a>)
+  - title: A Comparative Study of the Performance for Predicting Biodegradability Classification The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network (<a href="https://github.com/mhlee216/Biodegradability_Prediction_QSAR_GCN">GitHub</a>)
     image:
-      src: /assets/img/work/docking.jpg
-      alt: docking
-    description: COVID-19 Mpro binding free energy (kcal/mol, calculated by AutoDock Vina) prediction for fast drug discovery using graph convolutional networks. Datasets are made by <a href="https://github.com/omarwagih/covid19-docking">Omar Wagih</a>.
+      src: /assets/img/work/biodegradable.png
+      alt: biodegradable
+    description: QSAR models vs. Graph convolutional networks for classification of ready biodegradable/not ready biodegradable by using PyTorch, PyTorch Geometric, RDKit. The dataset is from <a href="https://doi.org/10.1080/1062936X.2019.1697360">Modelling of ready biodegradability based on combined public and industrial data sources</a>.
     
   - title: Prediction of SARS-CoV-2 Main Protease Binding Free Energy Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/COVID-19_Mpro_BFE_Prediction_GCN">GitHub</a>)
     image:
