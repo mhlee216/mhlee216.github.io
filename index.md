@@ -25,7 +25,7 @@ You can read my <a href="https://drive.google.com/file/d/1EruFngyCGPCOzBZ4u0gM2i
 
 ## **News**
 
-- **2021.12.** Accepted, "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>.
+- **2021.12.** Accepted, "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://doi.org/10.1021/acsomega.1c06274">Link</a>]
 
 - **2021.12.** 2021 Fall International Convention of The Pharmaceutical Society of Korea (Poster), "Multi-class Multi-label Enzyme Function Classification Using Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*.
 
@@ -41,6 +41,7 @@ Using Graph Convolutional Network", The Excellent Prize (National Research Counc
 - **2021.09.** Ranked in the top 6% of DACON competition: Samsung AI Challenge for Scientific Discovery.
 
 - **2021.09.** ACS Fall 2021 Conference Submission, "Graph Convolutional Network for Organic Solvent and Aqueous Solubility Prediction", **Myeonghun Lee**+, Sumin Lee, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*. Morressier. <a href="https://doi.org/10.1021/scimeetings.1c01189">https://doi.org/10.1021/scimeetings.1c01189</a>
+- [<a href="https://doi.org/10.1021/scimeetings.1c01189">Link</a>]
 
 - **2021.09.** ACS Fall 2021 Conference Submission, "Solubility Prediction Using Physicochemical Features via Machine Learning", Sumin Lee+, **Myeonghun Lee**, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*. Morressier. <a href="https://doi.org/10.1021/scimeetings.1c01188">https://doi.org/10.1021/scimeetings.1c01188</a>
 
