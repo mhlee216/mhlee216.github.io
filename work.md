@@ -11,6 +11,11 @@ items:
       alt: docking
     description: COVID-19 Mpro binding free energy (kcal/mol, calculated by AutoDock Vina) prediction for fast drug discovery using graph convolutional networks. Datasets are made by <a href="https://github.com/omarwagih/covid19-docking">Omar Wagih</a>.
     
+  - title: Prediction of SARS-CoV-2 Main Protease Binding Free Energy Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/COVID-19_Mpro_BFE_Prediction_GCN">GitHub</a>)
+    image:
+      src: /assets/img/work/docking.jpg
+      alt: docking
+    description: COVID-19 Mpro binding free energy (kcal/mol, calculated by AutoDock Vina) prediction for fast drug discovery using graph convolutional networks. Datasets are made by <a href="https://github.com/omarwagih/covid19-docking">Omar Wagih</a>.
     
   - title: Node Clustering of Gene Co-expression Network from Single-cell RNA Sequencing Using Node2Vec (<a href="https://github.com/mhlee216/Gene_Clustering_Node2Vec">GitHub</a>)
     image:
