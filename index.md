@@ -25,7 +25,7 @@ You can read my <a href="https://drive.google.com/file/d/1EruFngyCGPCOzBZ4u0gM2i
 
 ## **News**
 
-- **2021.12.** Accepted, "A Comparative Study of the Performance for Predicting Biodegradability Classification: QSAR Model vs. Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>.
+- **2021.12.** Accepted, "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>.
 
 - **2021.12.** 2021 Fall International Convention of The Pharmaceutical Society of Korea (Poster), "Multi-class Multi-label Enzyme Function Classification Using Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*.
 
@@ -36,7 +36,7 @@ Using Graph Convolutional Network", The Excellent Prize (National Research Counc
 
 - **2021.11.** 2021 Korean Artificial Intelligence Associationㅣ LG AI Research Fall Conference (Poster - Virtual), "Molecular Graph-based Conditional Variable Autoencoder for De Novo Drug Design", **Myeonghun Lee**+, and Kyoungmin Min\*.
 
-- **2021.11.** Submitted, "A Comparative Study of the Performance for Predicting Biodegradability Classification: QSAR Model vs. Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*.
+- **2021.11.** Submitted, "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*.
 
 - **2021.09.** Ranked in the top 6% of DACON competition: Samsung AI Challenge for Scientific Discovery.
 
