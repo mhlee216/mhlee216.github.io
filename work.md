@@ -4,13 +4,7 @@ title:
 slug: /work
 items:
 
-    
-  - title: A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network (<a href="https://github.com/mhlee216/Biodegradability_Prediction_QSAR_GCN">GitHub</a>)
-    image:
-      src: /assets/img/work/biodegradable.png
-      alt: biodegradable
-    description: QSAR models vs. Graph convolutional networks for classification of ready biodegradable/not ready biodegradable by using PyTorch, PyTorch Geometric, RDKit. Datasets are from <a href="https://doi.org/10.1080/1062936X.2019.1697360">Modelling of ready biodegradability based on combined public and industrial data sources</a>.
-    
+   
   - title: Prediction of SARS-CoV-2 Main Protease Binding Free Energy Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/COVID-19_Mpro_BFE_Prediction_GCN">GitHub</a>)
     image:
       src: /assets/img/work/docking.jpg
