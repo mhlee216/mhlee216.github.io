@@ -5,7 +5,7 @@ slug: /work
 items:
 
    
-  - title: Prediction of SARS-CoV-2 Main Protease Binding Free Energy Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/COVID-19_Mpro_BFE_Prediction_GCN">GitHub</a>)
+  - title: A Comparative Study of the Performance for Predicting Biodegradability Classification\: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network (<a href="https://github.com/mhlee216/Biodegradability_Prediction_QSAR_GCN">GitHub</a>)
     image:
       src: /assets/img/work/docking.jpg
       alt: docking
