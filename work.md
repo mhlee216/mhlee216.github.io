@@ -4,6 +4,13 @@ title:
 slug: /work
 items:
 
+    
+  - title: A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network (<a href="https://github.com/mhlee216/Biodegradability_Prediction_QSAR_GCN">GitHub</a>)
+    image:
+      src: /assets/img/work/biodegradable.png
+      alt: biodegradable
+    description: QSAR models vs. Graph convolutional networks for classification of ready biodegradable/not ready biodegradable by using PyTorch, PyTorch Geometric, RDKit. Datasets are from <a href="https://doi.org/10.1080/1062936X.2019.1697360">Modelling of ready biodegradability based on combined public and industrial data sources</a>.
+
   - title: Prediction of SARS-CoV-2 Main Protease Binding Free Energy Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/COVID-19_Mpro_BFE_Prediction_GCN">GitHub</a>)
     image:
       src: /assets/img/work/docking.jpg
@@ -27,12 +34,6 @@ items:
       src: /assets/img/work/protein.jpg
       alt: protein
     description:  Multi-input graph convolutional networks for classification of protein-protein interaction by using PyTorch, PyTorch Geometric, Biotite. Datasets are from <a href="https://doi.org/10.1101/2020.09.17.301200">Struct2Graph, A graph attention network for structure based predictions of protein-protein interactions</a>.
-    
-  - title: Classification of Biodegradable Materials Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/Biodegradability_Prediction_GCN">GitHub</a>)
-    image:
-      src: /assets/img/work/biodegradable.png
-      alt: biodegradable
-    description: Graph convolutional networks vs. QSAR models for classification of ready biodegradable/not ready biodegradable by using PyTorch, PyTorch Geometric, RDKit. Datasets are from <a href="https://doi.org/10.1021/ci4000213">Quantitative Structure–Activity Relationship Models for Ready Biodegradability of Chemicals</a>.
     
   - title: Efficient Fish Acute Toxicity Prediction Using QSAR Machine Learning Pipeline (<a href="https://github.com/mhlee216/QSAR_Machine_Learning_Pipeline">GitHub</a>)
     image:
