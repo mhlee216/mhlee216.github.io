@@ -23,8 +23,12 @@ You can find the source codes of my little projects on <a href="https://github.c
 You can read my <a href="https://drive.google.com/file/d/1AoclCmL00TGFe5o5Jkpx9Gl-YHkqhoMP/view?usp=sharing">CV</a> if you want.
 
 
+
+
 ## **Publications**
 - "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://doi.org/10.1021/acsomega.1c06274">Link</a>]
+
+
 
 
 ## **News**
