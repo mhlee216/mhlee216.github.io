@@ -9,7 +9,7 @@ items:
     image:
       src: /assets/img/work/biodegradable.png
       alt: biodegradable
-    description: QSAR models vs. Graph convolutional networks for classification of ready biodegradable/not ready biodegradable. The dataset is from <a href="https://doi.org/10.1080/1062936X.2019.1697360">Lunghini et al.</a>.
+    description: QSAR models vs. Graph convolutional networks for classification of ready biodegradable/not ready biodegradable. The original dataset is from <a href="https://doi.org/10.1080/1062936X.2019.1697360">Lunghini et al.</a>.
     
   - title: Classification of Protein-Protein Interaction Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/Protein_Protein_Interaction_Prediction_GCN">GitHub</a>)
     image:
