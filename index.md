@@ -6,9 +6,7 @@ profile_picture:
 ---
 
 
-I am an **undergraduate student** in **School of Systems Biomedical Science** at <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul, South Korea.
-
-I am double majoring in **Biotechnology, Bioinformatics** and convergence majoring in **Big Data Computing**.
+I majored in **Biotechnology**, **Bioinformatics**, and **Big Data Computing** in <a href="https://bioinfo.ssu.ac.kr/">**School of Systems Biomedical Science**</a>, <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul, South Korea.
 
 I am an **undergraduate researcher** at <a href="https://csailabssu.quv.kr/">**Computational Science and Artificial Intelligence Lab**</a> (Prof. Kyoungmin Min) at **School of Mechanical Engineering**, Soongsil University.
   
