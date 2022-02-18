@@ -33,6 +33,8 @@ You can read my <a href="https://drive.google.com/file/d/1Wxf4IKt4U9BpZbT1KWxtr-
 
 ## **News**
 
+- **2022.02.** Graduated from Soongsil University, School of Systems Biomedical Science (Biotechnology, Bioinformatics, Big Data Computing).
+
 - **2022.02.** Submitted, "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencoder", **Myeonghun Lee+**, and Kyoungmin Min\*. [<a href="http://arxiv.org/abs/2202.07476">Link</a>]
 
 - **2021.12.** Accepted, "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee+**, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://doi.org/10.1021/acsomega.1c06274">Link</a>]
