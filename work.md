@@ -21,13 +21,13 @@ items:
     image:
       src: /assets/img/work/protein.jpg
       alt: protein
-    description:  Multi-input graph convolutional networks for classification of protein-protein interaction by using PyTorch, PyTorch Geometric, Biotite. Datasets are from <a href="https://doi.org/10.1101/2020.09.17.301200">Struct2Graph, A graph attention network for structure based predictions of protein-protein interactions</a>.
+    description:  Multi-input graph convolutional networks for classification of protein-protein interaction by using PyTorch, PyTorch Geometric, Biotite. The original dataset is from <a href="https://doi.org/10.1101/2020.09.17.301200">Baranwal et al.</a>.
         
   - title: Node Clustering of Gene Co-expression Network from Single-cell RNA Sequencing Using Node2Vec (<a href="https://github.com/mhlee216/Gene_Clustering_Node2Vec">GitHub</a>)
     image:
       src: /assets/img/work/malaria.png
       alt: malaria
-    description: Gene clustering from scRNA-seq data of the malaria parasite for life cycle analysis. Datasets are from <a href="https://doi.org/10.1016/j.yexcr.2018.08.003">Exploring parasite heterogeneity using single-cell RNA-seq reveals a gene signature among sexual stage Plasmodium falciparum parasites</a>.
+    description: Gene clustering from scRNA-seq data of the malaria parasite for life cycle analysis. The original dataset is from <a href="https://doi.org/10.1016/j.yexcr.2018.08.003">Ngara et al.</a>.
     
   - title: COVID-19 Nature Papers NLP (<a href="https://github.com/mhlee216/COVID-19_Nature_Papers_NLP">GitHub</a>)
     image:
@@ -39,7 +39,7 @@ items:
     image:
       src: /assets/img/work/docking.jpg
       alt: docking
-    description: COVID-19 Mpro binding free energy (kcal/mol, calculated by AutoDock Vina) prediction for fast drug discovery using graph convolutional networks. Datasets are from <a href="https://github.com/omarwagih/covid19-docking">Omar Wagih</a>.
+    description: COVID-19 Mpro binding free energy (kcal/mol, calculated by AutoDock Vina) prediction for fast drug discovery using graph convolutional networks. The original dataset is from <a href="https://github.com/omarwagih/covid19-docking">Omar Wagih</a>.
     
   - title: Efficient Fish Acute Toxicity Prediction Using QSAR Machine Learning Pipeline (<a href="https://github.com/mhlee216/QSAR_Machine_Learning_Pipeline">GitHub</a>)
     image:
