@@ -45,7 +45,7 @@ items:
     image:
       src: /assets/img/work/qsar.png
       alt: qsar
-    description: A project to propose a QSAR machine learning pipeline for the prediction of fish acute toxicity using <a href="https://qsardb.org/repository/handle/10967/1953">QsarDB data</a> as an example.
+    description: A project to propose a QSAR machine learning pipeline for the prediction of fish acute toxicity using <a href="https://qsardb.org/repository/handle/10967/195">QsarDB data</a> as an example.
     
 
 ---
