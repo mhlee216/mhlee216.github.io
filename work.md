@@ -4,6 +4,12 @@ title:
 slug: /work
 items:
 
+
+  - title: Multi-class Multi-label Enzyme Function Classification Using Protein Graph Convolutional Network (<a href="https://github.com/mhlee216/EC_Number_Prediction_PGCN">GitHub</a>)
+    image:
+      src: /assets/img/work/enzyme.png
+      alt: ec_number
+    description: EC Number prediction using Protein GCN. The original dataset is from <a href="https://peerj.com/articles/4750/">Amidi et al.</a>.
    
   - title: A Comparative Study of the Performance for Predicting Biodegradability Classification, The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network (<a href="https://github.com/mhlee216/Biodegradability_Prediction_QSAR_GCN">GitHub</a>)
     image:
