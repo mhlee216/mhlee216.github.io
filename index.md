@@ -31,6 +31,8 @@ You can read my <a href="https://drive.google.com/file/d/1fkdcPBkerDYAETwYhiaDJG
 
 ## **News**
 
+- **2022.03.** Submitted, “Evaluation of Principal Features for Predicting Elastic Properties of Inorganic Solids", **Myeonghun Lee+**, Minseon Kim, and Kyoungmin Min\*.
+
 - **2022.02.** Graduated from Soongsil University, School of Systems Biomedical Science (Biotechnology, Bioinformatics, Big Data Computing).
 
 - **2022.02.** Submitted, "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencoder", **Myeonghun Lee+**, and Kyoungmin Min\*. [<a href="http://arxiv.org/abs/2202.07476">Link</a>]
