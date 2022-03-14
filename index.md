@@ -6,7 +6,9 @@ profile_picture:
 ---
 
 
-I majored in **Biotechnology**, **Bioinformatics**, and **Big Data Computing** in <a href="https://bioinfo.ssu.ac.kr/">**School of Systems Biomedical Science**</a>, <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul, South Korea.
+I am a researcher at <a href="www.azothbio.com">**AzothBio**</a>, AI platform-based new drug development company, in Seoul, South Korea.
+
+Previously, I majored in **Biotechnology**, **Bioinformatics**, and **Big Data Computing** in <a href="https://bioinfo.ssu.ac.kr/">**School of Systems Biomedical Science**</a>, <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul.
 
 I am an **undergraduate researcher** at <a href="https://csailabssu.quv.kr/">**Computational Science and Artificial Intelligence Lab**</a> (Prof. Kyoungmin Min) at **School of Mechanical Engineering**, Soongsil University.
   
@@ -30,6 +32,8 @@ You can read my <a href="https://drive.google.com/file/d/1bemOKXd77JaBAXkzOLmIo0
 
 
 ## **News**
+
+- **2022.03.** have joined AzothBio as a researcher in Seoul.
 
 - **2022.03.** Submitted, “Evaluation of Principal Features for Predicting Elastic Properties of Inorganic Solids", **Myeonghun Lee+**, Minseon Kim, and Kyoungmin Min\*.
 
