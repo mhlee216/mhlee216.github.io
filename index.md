@@ -33,7 +33,7 @@ You can read my <a href="https://drive.google.com/file/d/1bemOKXd77JaBAXkzOLmIo0
 
 ## **News**
 
-- **2022.03.** have joined AzothBio as a researcher in Seoul.
+- **2022.03.** Researcher, AzothBio, Seoul, South Korea.
 
 - **2022.03.** Submitted, “Evaluation of Principal Features for Predicting Elastic Properties of Inorganic Solids", **Myeonghun Lee+**, Minseon Kim, and Kyoungmin Min\*.
 
