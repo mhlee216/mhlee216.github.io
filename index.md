@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 
-I am a researcher at <a href="http://www.azothbio.com/new/main/main.php">**AzothBio**</a>, AI platform-based new drug development company, in Seoul, South Korea.
+I am a researcher at <a href="http://www.azothbio.com/new/main/main.php">**AZothBio**</a>, AI platform-based new drug development company, in Seoul, South Korea.
 
 Previously, I majored in **Biotechnology**, **Bioinformatics**, and **Big Data Computing** in <a href="https://bioinfo.ssu.ac.kr/">**School of Systems Biomedical Science**</a>, <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul.
 
