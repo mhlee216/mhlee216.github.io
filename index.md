@@ -10,7 +10,7 @@ I am a researcher at <a href="http://www.azothbio.com/">**AZothBio**</a>, AI pla
 
 Previously, I majored in **Biotechnology**, **Bioinformatics**, and **Big Data Computing** in <a href="https://bioinfo.ssu.ac.kr/">**School of Systems Biomedical Science**</a>, <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul.
 
-I was an **undergraduate researcher** at <a href="https://csailabssu.quv.kr/">**Computational Science and Artificial Intelligence Lab**</a> (Prof. Kyoungmin Min) at **School of Mechanical Engineering**, Soongsil University.
+I was an undergraduate researcher at <a href="https://csailabssu.quv.kr/">**Computational Science and Artificial Intelligence Lab**</a> (Prof. Kyoungmin Min) at **School of Mechanical Engineering**, Soongsil University.
   
 I previously interned at <a href="https://sites.google.com/site/sskimb/">**Post-Genome Informatics Lab**</a> (Prof. Sangsoo Kim) at School of Systems Biomedical Science, Soongsil University.
 
