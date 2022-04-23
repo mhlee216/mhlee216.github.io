@@ -38,7 +38,7 @@ You can read my <a href="https://drive.google.com/file/d/1bemOKXd77JaBAXkzOLmIo0
 
 - **2022.03.** Accepted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, **Myeonghun Lee+**, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim*, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://pubs.acs.org/doi/10.1021/acsomega.2c00697">Link</a>]
 
-- **2022.03.** Researcher, AzothBio, Seoul, South Korea.
+- **2022.03.** AI Researcher, AzothBio, Seoul, South Korea.
 
 - **2022.03.** Submitted, “Evaluation of Principal Features for Predicting Elastic Properties of Inorganic Solids", **Myeonghun Lee+**, Minseon Kim, and Kyoungmin Min\*.
 
