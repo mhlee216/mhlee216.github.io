@@ -27,6 +27,8 @@ You can read my <a href="https://drive.google.com/file/d/1bemOKXd77JaBAXkzOLmIo0
 
 ## **Publications**
 
+- "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencode", **Myeonghun Lee+**, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>.
+
 - "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, **Myeonghun Lee+**, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim*, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://pubs.acs.org/doi/10.1021/acsomega.2c00697">Link</a>]
 
 - "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee+**, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://doi.org/10.1021/acsomega.1c06274">Link</a>]
@@ -35,6 +37,8 @@ You can read my <a href="https://drive.google.com/file/d/1bemOKXd77JaBAXkzOLmIo0
 
 
 ## **News**
+
+- **2022.5.** Accepted, "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencoder", **Myeonghun Lee+**, and Kyoungmin Min\*, <span style="color:red">JCIM</span>.
 
 - **2022.03.** Accepted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, **Myeonghun Lee+**, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim*, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://pubs.acs.org/doi/10.1021/acsomega.2c00697">Link</a>]
 
