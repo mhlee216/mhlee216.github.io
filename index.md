@@ -20,12 +20,14 @@ This includes topics in deep neural network applications, graph neural networks,
 
 You can find the source codes of my projects on <a href="https://github.com/mhlee216">GitHub</a>.
 
-You can read my <a href="https://drive.google.com/file/d/1bemOKXd77JaBAXkzOLmIo0od0DHfPK83/view?usp=sharing">CV</a> if you want.
+You can read my <a href="https://drive.google.com/file/d/1raRqm_xtI6Rc9vSKDuc7mpmJQ65ziRwK/view?usp=sharing">CV</a> if you want.
 
 
 
 
 ## **Publications**
+
+- "Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee+**, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>.
 
 - "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencode", **Myeonghun Lee+**, and Kyoungmin Min\*, <span style="color:red">JCIM</span>. [<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487">Link</a>]
 
@@ -38,13 +40,15 @@ You can read my <a href="https://drive.google.com/file/d/1bemOKXd77JaBAXkzOLmIo0
 
 ## **News**
 
+- **2022.8.** Accepted, "Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee+**, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>.
+
 - **2022.5.** Accepted, "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencoder", **Myeonghun Lee+**, and Kyoungmin Min\*, <span style="color:red">JCIM</span>. [<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487">Link</a>]
 
 - **2022.03.** Accepted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, **Myeonghun Lee+**, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim*, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://pubs.acs.org/doi/10.1021/acsomega.2c00697">Link</a>]
 
 - **2022.03.** AI Researcher, AzothBio, Seoul, South Korea. [<a href="http://www.azothbio.com/">Link</a>]
 
-- **2022.03.** Submitted, “Evaluation of Principal Features for Predicting Elastic Properties of Inorganic Solids", **Myeonghun Lee+**, Minseon Kim, and Kyoungmin Min\*.
+- **2022.03.** Submitted, “Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee+**, Minseon Kim, and Kyoungmin Min\*.
 
 - **2022.02.** Graduated from Soongsil University, School of Systems Biomedical Science (Biotechnology, Bioinformatics, Big Data Computing).
 
