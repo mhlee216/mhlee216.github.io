@@ -29,7 +29,7 @@ You can read my <a href="https://drive.google.com/file/d/1raRqm_xtI6Rc9vSKDuc7mp
 
 - "Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee+**, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>.
 
-- "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencode", **Myeonghun Lee+**, and Kyoungmin Min\*, <span style="color:red">JCIM</span>. [<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487">Link</a>]
+- "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencode", **Myeonghun Lee+**, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487">Link</a>]
 
 - "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, **Myeonghun Lee+**, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim*, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://pubs.acs.org/doi/10.1021/acsomega.2c00697">Link</a>]
 
@@ -42,7 +42,7 @@ You can read my <a href="https://drive.google.com/file/d/1raRqm_xtI6Rc9vSKDuc7mp
 
 - **2022.8.** Accepted, "Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee+**, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>.
 
-- **2022.5.** Accepted, "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencoder", **Myeonghun Lee+**, and Kyoungmin Min\*, <span style="color:red">JCIM</span>. [<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487">Link</a>]
+- **2022.5.** Accepted, "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencoder", **Myeonghun Lee+**, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487">Link</a>]
 
 - **2022.03.** Accepted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, **Myeonghun Lee+**, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim*, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://pubs.acs.org/doi/10.1021/acsomega.2c00697">Link</a>]
 
