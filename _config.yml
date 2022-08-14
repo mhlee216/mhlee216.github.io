@@ -68,9 +68,9 @@ baseurl : ""
 
 
 # Analytics
-analytics:
-  provider               : "google-gtag" 
+# analytics:
+#   provider               : "google-gtag" 
                           # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "G-9HTVQTM2EW"
-    anonymize_ip         : # true, false (default)
+#   google:
+#     tracking_id          : "G-9HTVQTM2EW"
+#     anonymize_ip         : # true, false (default)
