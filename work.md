@@ -40,13 +40,6 @@ items:
       src: /assets/img/work/docking.jpg
       alt: docking
     description: COVID-19 Mpro binding free energy (kcal/mol, calculated by AutoDock Vina) prediction for fast drug discovery using graph convolutional networks. The original dataset is from <a href="https://github.com/omarwagih/covid19-docking">Omar Wagih</a>.
-    
-  - title: Efficient Fish Acute Toxicity Prediction Using QSAR Machine Learning Pipeline (<a href="https://github.com/mhlee216/QSAR_Machine_Learning_Pipeline">GitHub</a>)
-    image:
-      src: /assets/img/work/qsar.png
-      alt: qsar
-    description: A project to propose a QSAR machine learning pipeline for the prediction of fish acute toxicity using <a href="https://qsardb.org/repository/handle/10967/195">QsarDB data</a> as an example.
-    
 
 ---
 
