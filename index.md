@@ -40,7 +40,7 @@ You can read my <a href="https://drive.google.com/file/d/1XezhB2T-wEhu0qX5ZwX9lB
 
 ## **News**
 
-- **2022.11.** 2022 Korean Artificial Intelligence Associationㅣ NAVER Fall Conference (Poster), “MoReProt: Prediction of Amyloid Sequence  Using Molecular Fingerprints Recombination-based Protein Fingerprint”, **Myeonghun Lee+**, and Kyoungmin Min\*. [<a href="https://drive.google.com/file/d/1rzVbMSkesUy0I03xM6nBFQOmuUwBHovR/view?usp=sharing">Link</a>]
+- **2022.11.** 2022 Korean Artificial Intelligence Association & NAVER Fall Conference (Poster), “MoReProt: Prediction of Amyloid Sequence  Using Molecular Fingerprints Recombination-based Protein Fingerprint”, **Myeonghun Lee+**, and Kyoungmin Min\*. [<a href="https://drive.google.com/file/d/1rzVbMSkesUy0I03xM6nBFQOmuUwBHovR/view?usp=sharing">Link</a>]
 
 - **2022.09.** 2022 Research Data Analysis Utilization Contest, “Prediction of Isoelectric Point Using Atomic-level Protein Fingerprints”, The Grand Prize (Ministry of Science and ICT’s Award, 과학기술정보통신부 장관상).
 
