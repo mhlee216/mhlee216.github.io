@@ -40,7 +40,7 @@ You can read my <a href="https://drive.google.com/file/d/1XezhB2T-wEhu0qX5ZwX9lB
 
 ## **News**
 
-- **2022.11.** 2022 Korean Artificial Intelligence Associationㅣ NAVER Fall Conference (Poster), “MoReProt: Prediction of Amyloid Sequence  Using Molecular Fingerprints Recombination-based Protein Fingerprint”, **Myeonghun Lee+**, and Kyoungmin Min\*.
+- **2022.11.** 2022 Korean Artificial Intelligence Associationㅣ NAVER Fall Conference (Poster), “MoReProt: Prediction of Amyloid Sequence  Using Molecular Fingerprints Recombination-based Protein Fingerprint”, **Myeonghun Lee+**, and Kyoungmin Min\*. [<a href="https://drive.google.com/file/d/1rzVbMSkesUy0I03xM6nBFQOmuUwBHovR/view?usp=sharing">Link</a>]
 
 - **2022.09.** 2022 Research Data Analysis Utilization Contest, “Prediction of Isoelectric Point Using Atomic-level Protein Fingerprints”, The Grand Prize (Ministry of Science and ICT’s Award, 과학기술정보통신부 장관상).
 
@@ -67,7 +67,7 @@ Using Graph Convolutional Network", The Excellence Prize (National Research Coun
 
 - **2021.11.** 2021 Korea Data Mining Society Fall Conference (Oral), "Enhanced Biodegradability Classification through Graph Convolution Networks", **Myeonghun Lee+**, and Kyoungmin Min\*.
 
-- **2021.11.** 2021 Korean Artificial Intelligence Associationㅣ LG AI Research Fall Conference (Poster - Virtual), "Molecular Graph-based Conditional Variable Autoencoder for De Novo Drug Design", **Myeonghun Lee+**, and Kyoungmin Min\*.
+- **2021.11.** 2021 Korean Artificial Intelligence Associationㅣ LG AI Research Fall Conference (Poster - Virtual), "Molecular Graph-based Conditional Variable Autoencoder for De Novo Drug Design", **Myeonghun Lee+**, and Kyoungmin Min\*. [<a href="https://drive.google.com/file/d/1uNvLaONClDhSaYk8iX8NY1T10Jfl02gj/view?usp=sharing">Link</a>]
 
 - **2021.11.** Submitted, "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee+**, and Kyoungmin Min\*.
 
