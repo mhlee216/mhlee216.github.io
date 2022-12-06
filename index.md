@@ -42,7 +42,7 @@ You can read my <a href="https://drive.google.com/file/d/1XezhB2T-wEhu0qX5ZwX9lB
 
 - **2022.11.** 2022 Korean Artificial Intelligence Association & NAVER Fall Conference (Poster), “MoReProt: Prediction of Amyloid Sequence  Using Molecular Fingerprints Recombination-based Protein Fingerprint”, **Myeonghun Lee+**, and Kyoungmin Min\*. [<a href="https://drive.google.com/file/d/1rzVbMSkesUy0I03xM6nBFQOmuUwBHovR/view?usp=sharing">Link</a>]
 
-- **2022.09.** 2022 Research Data Analysis Utilization Contest, “Prediction of Isoelectric Point Using Atomic-level Protein Fingerprints”, The Grand Prize (Ministry of Science and ICT’s Award, 과학기술정보통신부 장관상).
+- **2022.09.** 2022 Research Data Analysis Utilization Contest, “Prediction of Isoelectric Point Using Atomic-level Protein Fingerprints”, The Grand Prize (Ministry of Science and ICT’s Award, 과학기술정보통신부 장관상). [<a href="https://youtu.be/9y-DmOX4zc4?t=7265">Link</a>]
 
 - **2022.08.** Accepted, "Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee+**, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>. [<a href="https://doi.org/10.1016/j.mtcomm.2022.104208">Link</a>]
 
