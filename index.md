@@ -40,6 +40,8 @@ You can read my <a href="https://drive.google.com/file/d/1E26HP2c7DOiDLvTB3d9afk
 
 ## **News**
 
+- **2023.02.** Submitted, "AmorProt: Amino Acid Molecular Fingerprints Repurposing-based Protein Fingerprint", **Myeonghun Lee+,\***, and Kyoungmin Min\*.
+
 - **2022.11.** 2022 Korean Artificial Intelligence Association & NAVER Fall Conference (Poster), “MoReProt: Prediction of Amyloid Sequence  Using Molecular Fingerprints Recombination-based Protein Fingerprint”, **Myeonghun Lee+**, and Kyoungmin Min\*. [<a href="https://drive.google.com/file/d/1rzVbMSkesUy0I03xM6nBFQOmuUwBHovR/view?usp=sharing">Link</a>]
 
 - **2022.09.** 2022 Research Data Analysis Utilization Contest, “Prediction of Isoelectric Point Using Atomic-level Protein Fingerprints”, The Grand Prize (Ministry of Science and ICT’s Award, 과학기술정보통신부 장관상). [<a href="https://youtu.be/9y-DmOX4zc4?t=7265">Link</a>]
