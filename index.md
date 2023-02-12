@@ -35,7 +35,7 @@ You can read my <a href="https://drive.google.com/file/d/1E26HP2c7DOiDLvTB3d9afk
 
 - "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min<sup>\*</sup>, <span style="color:red">ACS Omega</span>. [<a href="https://doi.org/10.1021/acsomega.1c06274">Link</a>]
 
-
+**Myeonghun Lee**<sup>+,\*</sup>, **Myeonghun Lee**<sup>+,</sup>\*, **Myeonghun Lee**<sup>+,*</sup>
 
 
 ## **News**
@@ -81,7 +81,7 @@ Using Graph Convolutional Network", The Excellence Prize (National Research Coun
 
 - **2021.08.** ACS Fall 2021 Conference Presentation (Oral - Virtual), "Graph Convolutional Network for Organic Solvent and Aqueous Solubility Prediction", **Myeonghun Lee**<sup>+</sup>, Sumin Lee, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim<sup>\*</sup>, and Kyoungmin Min<sup>\*</sup>.
 
-- **2021.08.** Submitted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim<sup>\*</sup>, and Kyoungmin Min<sup>*</sup>.
+- **2021.08.** Submitted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim<sup>\*</sup>, and Kyoungmin Min<sup>\*</sup>.
 
 - **2020.07.** Undergraduate Researcher, Computational Science and Artificial Intelligence Lab, School of Mechanical Engineering, Soongsil University, Seoul, South Korea.
 
