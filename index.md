@@ -27,61 +27,61 @@ You can read my <a href="https://drive.google.com/file/d/1E26HP2c7DOiDLvTB3d9afk
 
 ## **Publications**
 
-- "Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee+**, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>. [<a href="https://doi.org/10.1016/j.mtcomm.2022.104208">Link</a>]
+- "Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee**+, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>. [<a href="https://doi.org/10.1016/j.mtcomm.2022.104208">Link</a>]
 
-- "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencode", **Myeonghun Lee+**, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487">Link</a>]
+- "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencode", **Myeonghun Lee**+, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487">Link</a>]
 
-- "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, **Myeonghun Lee+**, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim*, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://pubs.acs.org/doi/10.1021/acsomega.2c00697">Link</a>]
+- "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, **Myeonghun Lee**+, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim*, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://pubs.acs.org/doi/10.1021/acsomega.2c00697">Link</a>]
 
-- "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee+**, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://doi.org/10.1021/acsomega.1c06274">Link</a>]
+- "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://doi.org/10.1021/acsomega.1c06274">Link</a>]
 
 
 
 
 ## **News**
 
-- **2023.02.** Submitted, "AmorProt: Amino Acid Molecular Fingerprints Repurposing-based Protein Fingerprint", **Myeonghun Lee+,\***, and Kyoungmin Min\*.
+- **2023.02.** Submitted, "AmorProt: Amino Acid Molecular Fingerprints Repurposing-based Protein Fingerprint", **Myeonghun Lee**+,\*, and Kyoungmin Min\*.
 
-- **2022.11.** 2022 Korean Artificial Intelligence Association & NAVER Fall Conference (Poster), “MoReProt: Prediction of Amyloid Sequence  Using Molecular Fingerprints Recombination-based Protein Fingerprint”, **Myeonghun Lee+**, and Kyoungmin Min\*. [<a href="https://drive.google.com/file/d/1rzVbMSkesUy0I03xM6nBFQOmuUwBHovR/view?usp=sharing">Link</a>]
+- **2022.11.** 2022 Korean Artificial Intelligence Association & NAVER Fall Conference (Poster), “MoReProt: Prediction of Amyloid Sequence  Using Molecular Fingerprints Recombination-based Protein Fingerprint”, **Myeonghun Lee**+, and Kyoungmin Min\*. [<a href="https://drive.google.com/file/d/1rzVbMSkesUy0I03xM6nBFQOmuUwBHovR/view?usp=sharing">Link</a>]
 
 - **2022.09.** 2022 Research Data Analysis Utilization Contest, “Prediction of Isoelectric Point Using Atomic-level Protein Fingerprints”, The Grand Prize (Ministry of Science and ICT’s Award, 과학기술정보통신부 장관상). [<a href="https://youtu.be/9y-DmOX4zc4?t=7265">Link</a>]
 
-- **2022.08.** Accepted, "Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee+**, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>. [<a href="https://doi.org/10.1016/j.mtcomm.2022.104208">Link</a>]
+- **2022.08.** Accepted, "Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee**+, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>. [<a href="https://doi.org/10.1016/j.mtcomm.2022.104208">Link</a>]
 
-- **2022.05.** Accepted, "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencoder", **Myeonghun Lee+**, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487">Link</a>]
+- **2022.05.** Accepted, "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencoder", **Myeonghun Lee**+, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487">Link</a>]
 
-- **2022.03.** Accepted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, **Myeonghun Lee+**, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim*, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://pubs.acs.org/doi/10.1021/acsomega.2c00697">Link</a>]
+- **2022.03.** Accepted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, **Myeonghun Lee**+, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim*, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://pubs.acs.org/doi/10.1021/acsomega.2c00697">Link</a>]
 
 - **2022.03.** AI Researcher, AzothBio, Seoul, South Korea. [<a href="http://www.azothbio.com/">Link</a>]
 
-- **2022.03.** Submitted, “Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee+**, Minseon Kim, and Kyoungmin Min\*.
+- **2022.03.** Submitted, “Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee**+, Minseon Kim, and Kyoungmin Min\*.
 
 - **2022.02.** Graduated from Soongsil University, School of Systems Biomedical Science (Biotechnology, Bioinformatics, Big Data Computing).
 
-- **2022.02.** Submitted, "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencoder", **Myeonghun Lee+**, and Kyoungmin Min\*. [<a href="http://arxiv.org/abs/2202.07476">Link</a>]
+- **2022.02.** Submitted, "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencoder", **Myeonghun Lee**+, and Kyoungmin Min\*. [<a href="http://arxiv.org/abs/2202.07476">Link</a>]
 
-- **2021.12.** Accepted, "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee+**, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://doi.org/10.1021/acsomega.1c06274">Link</a>]
+- **2021.12.** Accepted, "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://doi.org/10.1021/acsomega.1c06274">Link</a>]
 
-- **2021.12.** 2021 Fall International Convention of The Pharmaceutical Society of Korea (Poster), "Multi-class Multi-label Enzyme Function Classification Using Graph Convolutional Network", **Myeonghun Lee+**, and Kyoungmin Min\*.
+- **2021.12.** 2021 Fall International Convention of The Pharmaceutical Society of Korea (Poster), "Multi-class Multi-label Enzyme Function Classification Using Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*.
 
 - **2021.11.** 2021 Research Data AI Analysis Utilization Contest, "Singlet-Triplet Energy Gap Prediction
 Using Graph Convolutional Network", The Excellence Prize (National Research Council of Science & Technology Chairman's Award, 국가과학기술연구회 이사장상). [<a href="https://www.kisti.re.kr/promote/post/news/5422?t=1641877298563">Link</a>]
 
-- **2021.11.** 2021 Korea Data Mining Society Fall Conference (Oral), "Enhanced Biodegradability Classification through Graph Convolution Networks", **Myeonghun Lee+**, and Kyoungmin Min\*.
+- **2021.11.** 2021 Korea Data Mining Society Fall Conference (Oral), "Enhanced Biodegradability Classification through Graph Convolution Networks", **Myeonghun Lee**+, and Kyoungmin Min\*.
 
-- **2021.11.** 2021 Korean Artificial Intelligence Associationㅣ LG AI Research Fall Conference (Poster - Virtual), "Molecular Graph-based Conditional Variable Autoencoder for De Novo Drug Design", **Myeonghun Lee+**, and Kyoungmin Min\*. [<a href="https://drive.google.com/file/d/1uNvLaONClDhSaYk8iX8NY1T10Jfl02gj/view?usp=sharing">Link</a>]
+- **2021.11.** 2021 Korean Artificial Intelligence Associationㅣ LG AI Research Fall Conference (Poster - Virtual), "Molecular Graph-based Conditional Variable Autoencoder for De Novo Drug Design", **Myeonghun Lee**+, and Kyoungmin Min\*. [<a href="https://drive.google.com/file/d/1uNvLaONClDhSaYk8iX8NY1T10Jfl02gj/view?usp=sharing">Link</a>]
 
-- **2021.11.** Submitted, "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee+**, and Kyoungmin Min\*.
+- **2021.11.** Submitted, "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network", **Myeonghun Lee**+, and Kyoungmin Min\*.
 
 - **2021.09.** Ranked in the top 6% of DACON competition: Samsung AI Challenge for Scientific Discovery.
 
-- **2021.09.** ACS Fall 2021 Conference Submission, "Graph Convolutional Network for Organic Solvent and Aqueous Solubility Prediction", **Myeonghun Lee+**, Sumin Lee, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*. [<a href="https://doi.org/10.1021/scimeetings.1c01189">Link</a>]
+- **2021.09.** ACS Fall 2021 Conference Submission, "Graph Convolutional Network for Organic Solvent and Aqueous Solubility Prediction", **Myeonghun Lee**+, Sumin Lee, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*. [<a href="https://doi.org/10.1021/scimeetings.1c01189">Link</a>]
 
 - **2021.09.** ACS Fall 2021 Conference Submission, "Solubility Prediction Using Physicochemical Features via Machine Learning", Sumin Lee+, **Myeonghun Lee**, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*. [<a href="https://doi.org/10.1021/scimeetings.1c01188">Link</a>]
 
-- **2021.08.** ACS Fall 2021 Conference Presentation (Oral - Virtual), "Graph Convolutional Network for Organic Solvent and Aqueous Solubility Prediction", **Myeonghun Lee+**, Sumin Lee, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*.
+- **2021.08.** ACS Fall 2021 Conference Presentation (Oral - Virtual), "Graph Convolutional Network for Organic Solvent and Aqueous Solubility Prediction", **Myeonghun Lee**+, Sumin Lee, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*.
 
-- **2021.08.** Submitted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, **Myeonghun Lee+**, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*.
+- **2021.08.** Submitted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee+, **Myeonghun Lee**+, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*.
 
 - **2020.07.** Undergraduate Researcher, Computational Science and Artificial Intelligence Lab, School of Mechanical Engineering, Soongsil University, Seoul, South Korea.
 
