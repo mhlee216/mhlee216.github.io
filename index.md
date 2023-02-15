@@ -42,7 +42,7 @@ You can read my <a href="https://drive.google.com/file/d/1E26HP2c7DOiDLvTB3d9afk
 
 - **2023.02.** Submitted, "AmorProt: Amino Acid Molecular Fingerprints Repurposing-based Protein Fingerprint", **Myeonghun Lee**<sup>+,</sup>\*, and Kyoungmin Min\*.
 
-- **2023.01.** AzothBio Patent Application, "An artificial intelligence learning-based kinase profiling device using multi-sequence information of protein structure and 3D structure descriptor for predicting drug effect and its operation method", Jae-Min Shin, Hyejin Park, Sujeong Hong, Sungil Kang, **Myeonghun Lee**, Korea Patent.
+- **2023.01.** Patent application at AZothBio, "An artificial intelligence learning-based kinase profiling device using multi-sequence information of protein structure and 3D structure descriptor for predicting drug effect and its operation method", Jae-Min Shin, Hyejin Park, Sujeong Hong, Sungil Kang, **Myeonghun Lee**, Korea Patent.
 
 - **2022.11.** 2022 Korean Artificial Intelligence Association & NAVER Fall Conference (Poster), “MoReProt: Prediction of Amyloid Sequence  Using Molecular Fingerprints Recombination-based Protein Fingerprint”, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*. [<a href="https://drive.google.com/file/d/1rzVbMSkesUy0I03xM6nBFQOmuUwBHovR/view?usp=sharing">Link</a>]
 
