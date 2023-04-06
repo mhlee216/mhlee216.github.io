@@ -5,6 +5,12 @@ slug: /work
 items:
 
 
+  - title: Chemical Space Analysis (<a href="https://github.com/mhlee216/Chemical_Space_Analysis">GitHub</a>)
+    image:
+      src: /assets/img/work/chemical_space.png
+      alt: chemical_space
+    description: Chemical space comparison of two different datasets, visualization according to physicochemical properties, scaffold Analysis, analysis of intersecting molecules in different data sets with similar chemical spaces.
+
   - title: Multi-class Multi-label Enzyme Function Classification Using Protein Graph Convolutional Network (<a href="https://github.com/mhlee216/EC_Number_Prediction_PGCN">GitHub</a>)
     image:
       src: /assets/img/work/enzyme.png
