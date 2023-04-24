@@ -40,6 +40,8 @@ You can read my <a href="https://drive.google.com/file/d/1E26HP2c7DOiDLvTB3d9afk
 
 ## **News**
 
+- **2023.04.** Submitted, "Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review", Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*.
+
 - **2023.04.** Submitted, "Prediction of Protein Aggregation Propensity via Data-driven Approaches", Seungpyo Kang<sup>+</sup>, Minseon Kim<sup>+</sup>, Jiwon Sun<sup>+</sup>, **Myeonghun Lee**\*, and Kyoungmin Min\*. [<a href="https://arxiv.org/abs/2304.03293">Link</a>]
 
 - **2023.02.** Submitted, "AmorProt: Amino Acid Molecular Fingerprints Repurposing-based Protein Fingerprint", **Myeonghun Lee**<sup>+,</sup>\* and Kyoungmin Min\*. [<a href="https://arxiv.org/abs/2303.16209">Link</a>]
