@@ -29,7 +29,7 @@ You can read my <a href="https://drive.google.com/file/d/1nfX2-lsCYp45r_5ftPxYEV
 
 - "Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee**<sup>+</sup>, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>. [<a href="https://doi.org/10.1016/j.mtcomm.2022.104208">Link</a>]
 
-- "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencode", **Myeonghun Lee**<sup>+</sup> and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487">Link</a>]
+- "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencoder", **Myeonghun Lee**<sup>+</sup> and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487">Link</a>]
 
 - "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://pubs.acs.org/doi/10.1021/acsomega.2c00697">Link</a>]
 
