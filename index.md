@@ -14,7 +14,7 @@ I was an undergraduate researcher at <a href="https://csailabssu.quv.kr/">**Comp
   
 I previously interned at <a href="https://sites.google.com/site/sskimb/">**Post-Genome Informatics Lab**</a> (Prof. Sangsoo Kim) at School of Systems Biomedical Science, Soongsil University.
 
-I am broadly interested in studying machine learning, bioinformatics, and cheminformatics.
+I am broadly interested in studying AI, bioinformatics, cheminformatics, materials informatics, graph neural networks, drug discovery, generative model, data science, natural language processing, and computer vision.
 
 This includes topics in deep neural network applications, graph neural networks, drug discovery, molecule generation, and natural language processing.
 
