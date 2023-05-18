@@ -40,7 +40,7 @@ You can read my <a href="https://drive.google.com/file/d/1nfX2-lsCYp45r_5ftPxYEV
 
 ## **News**
 
-- **2022.08.** Accepted, "Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review", Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">International Journal of Precision Engineering and Manufacturing-Green Technology</span>.
+- **2023.05.** Accepted, "Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review", Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">International Journal of Precision Engineering and Manufacturing-Green Technology</span>.
 
 - **2023.04.** Submitted, "Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review", Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*.
 
