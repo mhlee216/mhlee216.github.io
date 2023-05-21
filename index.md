@@ -18,7 +18,7 @@ I am broadly interested in studying AI, bioinformatics, cheminformatics, materia
 
 You can find the source codes of my projects on <a href="https://github.com/mhlee216">GitHub</a>.
 
-You can read my <a href="https://drive.google.com/file/d/1nfX2-lsCYp45r_5ftPxYEVvnIj85v8ID/view?usp=sharing">CV</a> if you want.
+You can read my <a href="https://drive.google.com/file/d/1GlNf16DtnGAHGKLiqHV-fqCVZcEb46c2/view?usp=sharing">CV</a> if you want.
 
 
 
