@@ -91,9 +91,9 @@ Using Graph Convolutional Network", The Excellence Prize (National Research Coun
 
 - **2021.08.** Submitted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*. Samsung Advanced Institute of Technology (SAIT) research project.
 
-- **2020.07.** Undergraduate Researcher, Computational Science and Artificial Intelligence Lab, School of Mechanical Engineering, Soongsil University, Seoul, South Korea.
+- **2020.07.** Undergraduate Researcher, Computational Science and Artificial Intelligence Lab (Prof. Kyoungmin Min), School of Mechanical Engineering, Soongsil University, Seoul, South Korea. [<a href="https://csailabssu.quv.kr/">Link</a>]
 
-- **2019.01.** Undergraduate Intern, Post-Genome Informatics Lab, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea.
+- **2019.01.** Undergraduate Intern, Post-Genome Informatics Lab (Prof. Sangsoo Kim), School of Systems Biomedical Science, Soongsil University, Seoul, South Korea. [<a href="https://sites.google.com/site/sskimb/">Link</a>]
 
 - **2016.03.** Undergraduate Admission, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea.
 
