@@ -29,8 +29,8 @@ footer:
     #  username: "@YourTwitterUsername"
     #- name: Facebook
     #  link: http://facebook.com/YourFacebookUsername
-    #- name: LinkedIn
-    #  link: http://linkedin.com/in/YourLinkedInUsername
+    - name: LinkedIn
+     link: https://www.linkedin.com/in/myeonghun-lee-09a795278/
     - name: GitHub
       link: http://github.com/mhlee216
     #- name: Dribbble
