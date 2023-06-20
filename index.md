@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 
-I was a researcher at <a href="http://www.azothbio.com/">**AZothBio**</a>, AI platform-based new drug development company, in Seoul, South Korea.
+I am a ML R&D researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, AI-based wearable medical solution company, in Seoul, South Korea.
 
 Previously, I majored in **Biotechnology**, **Bioinformatics**, and **Big Data Computing** in <a href="https://bioinfo.ssu.ac.kr/">**School of Systems Biomedical Science**</a>, <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul.
 
@@ -38,6 +38,8 @@ You can read my <a href="https://drive.google.com/file/d/1qiEBhaUpzJ7upH7rcpUePv
 
 ## **News**
 
+- **2023.07.** ML R&D researcher, HUINNO, Seoul, South Korea. [<a href="https://www.huinno.com/">Link</a>]
+- 
 - **2023.05.** Accepted, "Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review", Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">International Journal of Precision Engineering and Manufacturing-Green Technology</span>.  [<a href="https://doi.org/10.1007/s40684-023-00523-6">Link</a>]
 
 - **2023.04.** Submitted, "Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review", Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*.
