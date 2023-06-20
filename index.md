@@ -39,7 +39,7 @@ You can read my <a href="https://drive.google.com/file/d/1qiEBhaUpzJ7upH7rcpUePv
 ## **News**
 
 - **2023.07.** ML R&D researcher, HUINNO, Seoul, South Korea. [<a href="https://www.huinno.com/">Link</a>]
-- 
+
 - **2023.05.** Accepted, "Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review", Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">International Journal of Precision Engineering and Manufacturing-Green Technology</span>.  [<a href="https://doi.org/10.1007/s40684-023-00523-6">Link</a>]
 
 - **2023.04.** Submitted, "Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review", Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*.
