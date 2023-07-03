@@ -23,6 +23,8 @@ You can read my <a href="https://drive.google.com/file/d/1qiEBhaUpzJ7upH7rcpUePv
 
 ## **Publications**
 
+- "AiKPro: Deep Learning Model for Kinome-Wide Bioactivity Profiling Using Structure-based Sequence Alignments and Molecular 3D Conformer Ensemble Descriptors", Hyejin Park, Sujeong Hong, **Myeonghun Lee**, Sungil Kang, Rahul Brahma, Kwang-Hwi Cho, and Jae-Min Shin\*, <span style="color:red">Scientific Reports</span>. [<a href="https://doi.org/10.1038/s41598-023-37456-8">Link</a>]
+  
 - "Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review", Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">International Journal of Precision Engineering and Manufacturing-Green Technology</span>. [<a href="https://doi.org/10.1007/s40684-023-00523-6">Link</a>]
 
 - "Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee**<sup>+</sup>, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>. [<a href="https://doi.org/10.1016/j.mtcomm.2022.104208">Link</a>]
@@ -40,7 +42,9 @@ You can read my <a href="https://drive.google.com/file/d/1qiEBhaUpzJ7upH7rcpUePv
 
 - **2023.07.** ML R&D researcher, HUINNO, Seoul, South Korea. [<a href="https://www.huinno.com/">Link</a>]
 
-- **2023.05.** Accepted, "Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review", Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">International Journal of Precision Engineering and Manufacturing-Green Technology</span>.  [<a href="https://doi.org/10.1007/s40684-023-00523-6">Link</a>]
+- **2023.06.** Accepted, "AiKPro: Deep Learning Model for Kinome-Wide Bioactivity Profiling Using Structure-based Sequence Alignments and Molecular 3D Conformer Ensemble Descriptors", Hyejin Park, Sujeong Hong, **Myeonghun Lee**, Sungil Kang, Rahul Brahma, Kwang-Hwi Cho, and Jae-Min Shin\*, <span style="color:red">Scientific Reports</span>. [<a href="https://doi.org/10.1038/s41598-023-37456-8">Link</a>]
+- 
+- **2023.05.** Accepted, "Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review", Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">International Journal of Precision Engineering and Manufacturing-Green Technology</span>. [<a href="https://doi.org/10.1007/s40684-023-00523-6">Link</a>]
 
 - **2023.04.** Submitted, "Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review", Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*.
 
