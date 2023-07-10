@@ -12,7 +12,7 @@ Previously, I majored in **Biotechnology**, **Bioinformatics**, and **Big Data C
 
 I was an undergraduate researcher at <a href="https://csailabssu.quv.kr/">**Computational Science and Artificial Intelligence Lab**</a> (Prof. Kyoungmin Min) at **School of Mechanical Engineering**, Soongsil University.
 
-I am broadly interested in studying AI, bioinformatics, cheminformatics, materials informatics, graph neural networks, drug discovery, generative model, data science, natural language processing, and computer vision.
+I am broadly interested in studying AI, bioinformatics, cheminformatics, materials informatics, graph neural networks, drug discovery, generative model, data science, natural language processing, computer vision, human-computer interface, and healthcare.
 
 You can find the source codes of my projects on <a href="https://github.com/mhlee216">GitHub</a>.
 
