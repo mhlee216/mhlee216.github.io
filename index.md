@@ -48,7 +48,7 @@ You can read my <a href="https://drive.google.com/file/d/1bZ15aLwvguJazrG4KIZO9O
 
 - **2023.08.** Accepted, "AmorProt: Amino Acid Molecular Fingerprints Repurposing-based Protein Fingerprint", **Myeonghun Lee**<sup>+,</sup>\*, and Kyoungmin Min\*, <span style="color:red">Biochemistry</span>. [<a href="https://doi.org/10.1021/acs.biochem.3c00253">Link</a>]
 
-- **2023.07.** Patent Registration (1025585460000), "An artificial intelligence learning-based kinase profiling device using multi-sequence information of protein structure and 3D structure descriptor for predicting drug effect and its operation method", AZothBio.
+- **2023.07.** Patent Registration (1025585460000), "An Artificial Intelligence Learning-based Kinase Profiling Device Using Multi-sequence Information of Protein Structure and 3D Structure Descriptor for Predicting Drug Effect and Its Operation Method", AZothBio, Korea Intellectual Property Office.
 
 - **2023.07.** ML R&D researcher, HUINNO, Seoul, South Korea. [<a href="https://www.huinno.com/">Link</a>]
 
