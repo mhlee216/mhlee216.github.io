@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 
-I am a ML R&D researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, AI-based wearable medical solution company, in Seoul, South Korea.
+I am working as an ML R&D researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, AI-based wearable medical solution company, in Seoul, South Korea.
 
 Previously, I majored in **Biotechnology**, **Bioinformatics**, and **Big Data Computing** in <a href="https://bioinfo.ssu.ac.kr/">**School of Systems Biomedical Science**</a>, <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul.
 
