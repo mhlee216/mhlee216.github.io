@@ -56,7 +56,7 @@ You can read my <a href="https://drive.google.com/file/d/1bZ15aLwvguJazrG4KIZO9O
 
 - **2023.07.** Patent Registration (1025585460000), "An Artificial Intelligence Learning-based Kinase Profiling Device Using Multi-sequence Information of Protein Structure and 3D Structure Descriptor for Predicting Drug Effect and Its Operation Method", AZothBio, Korea Intellectual Property Office.
 
-- **2023.07.** ML R&D researcher, HUINNO, Seoul, South Korea. [<a href="https://www.huinno.com/">Link</a>]
+- **2023.07.** ML R&D researcher, HUINNO Co., Ltd., Seoul, South Korea. [<a href="https://www.huinno.com/">Link</a>]
 
 - **2023.06.** Accepted, "AiKPro: Deep Learning Model for Kinome-Wide Bioactivity Profiling Using Structure-based Sequence Alignments and Molecular 3D Conformer Ensemble Descriptors", Hyejin Park, Sujeong Hong, **Myeonghun Lee**, Sungil Kang, Rahul Brahma, Kwang-Hwi Cho, and Jae-Min Shin\*, <span style="color:red">Scientific Reports</span>. [<a href="https://doi.org/10.1038/s41598-023-37456-8">Link</a>]
 
