@@ -44,7 +44,7 @@ You can read my <a href="https://drive.google.com/file/d/1bZ15aLwvguJazrG4KIZO9O
 
 ## **News**
 
-- **2024.09.** HRX 2024, Heart Rhythm Society (Oral), “A Step Forward in Predictive Cardiology: AI-Driven ECG Algorithm for Predicting the Occurrence of Intraventricular Conduction Abnormalities with Wide QRS Complex”, Jinkook Kim\*, **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, S. Jung, and I. Oh. [<a href="https://doi.org/10.1016/j.hrthm.2024.07.059">Link</a>]
+- **2024.09.** HRX 2024, Heart Rhythm Society (Oral), “A Step Forward in Predictive Cardiology: AI-Driven ECG Algorithm for Predicting the Occurrence of Intraventricular Conduction Abnormalities with Wide QRS Complex”, Jinkook Kim\*, **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, Sung Hoon Jung, and Il-Young Oh. [<a href="https://doi.org/10.1016/j.hrthm.2024.07.059">Link</a>]
 
 - **2024.08.** Patent application at HUINNO, "Method and System For Predicting Occurrence of Abnormal Waveform in Electrocardiogram", **Myeonghun Lee**, Jiwoo Lim, Jinkook Kim, Sung Hoon Jung, Korea Patent.
 
