@@ -23,6 +23,8 @@ You can read my <a href="https://drive.google.com/file/d/1bZ15aLwvguJazrG4KIZO9O
 
 ## **Publications**
 
+- "Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design", **Myeonghun Lee**<sup>+</sup>, Taehyun Park<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>.
+  
 - "Prediction of Protein Aggregation Propensity via Data-driven Approaches", Seungpyo Kang<sup>+</sup>, Minseon Kim<sup>+</sup>, Jiwon Sun<sup>+</sup>, **Myeonghun Lee**\*, and Kyoungmin Min\*, <span style="color:red">ACS Biomaterials Science & Engineering</span>. [<a href="https://doi.org/10.1021/acsbiomaterials.3c01001">Link</a>]
 
 - "AmorProt: Amino Acid Molecular Fingerprints Repurposing-based Protein Fingerprint", **Myeonghun Lee**<sup>+,</sup>\*, and Kyoungmin Min\*, <span style="color:red">Biochemistry</span>. [<a href="https://doi.org/10.1021/acs.biochem.3c00253">Link</a>]
@@ -43,6 +45,8 @@ You can read my <a href="https://drive.google.com/file/d/1bZ15aLwvguJazrG4KIZO9O
 
 
 ## **News**
+
+- **2024.11.** Accepted, "Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design", **Myeonghun Lee**<sup>+</sup>, Taehyun Park<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>.
 
 - **2024.09.** HRX 2024, Heart Rhythm Society (Oral), “A Step Forward in Predictive Cardiology: AI-Driven ECG Algorithm for Predicting the Occurrence of Intraventricular Conduction Abnormalities with Wide QRS Complex”, Jinkook Kim\*, **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, Sung Hoon Jung, and Il-Young Oh. [<a href="https://doi.org/10.1016/j.hrthm.2024.07.059">Link</a>]
 
