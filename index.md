@@ -18,25 +18,32 @@ You can read my <a href="https://drive.google.com/file/d/1bZ15aLwvguJazrG4KIZO9O
 
 ## **Publications** 
 
-- **"Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design"**
+- "Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design"
   **Myeonghun Lee**<sup>+</sup>, Taehyun Park<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://doi.org/10.1021/acs.jcim.4c01676">Link</a>] 
   
-- **"Prediction of Protein Aggregation Propensity via Data-driven Approaches"**
+- "Prediction of Protein Aggregation Propensity via Data-driven Approaches"
   Seungpyo Kang<sup>+</sup>, Minseon Kim<sup>+</sup>, Jiwon Sun<sup>+</sup>, **Myeonghun Lee**\*, and Kyoungmin Min\*, <span style="color:red">ACS Biomaterials Science & Engineering</span>. [<a href="https://doi.org/10.1021/acsbiomaterials.3c01001">Link</a>] 
 
-- **"AmorProt: Amino Acid Molecular Fingerprints Repurposing-based Protein Fingerprint"**, **Myeonghun Lee**<sup>+,</sup>\*, and Kyoungmin Min\*, <span style="color:red">Biochemistry</span>. [<a href="https://doi.org/10.1021/acs.biochem.3c00253">Link</a>] 
+- "AmorProt: Amino Acid Molecular Fingerprints Repurposing-based Protein Fingerprint"
+  **Myeonghun Lee**<sup>+,</sup>\*, and Kyoungmin Min\*, <span style="color:red">Biochemistry</span>. [<a href="https://doi.org/10.1021/acs.biochem.3c00253">Link</a>] 
 
-- **"AiKPro: Deep Learning Model for Kinome-Wide Bioactivity Profiling Using Structure-based Sequence Alignments and Molecular 3D Conformer Ensemble Descriptors"**, Hyejin Park, Sujeong Hong, **Myeonghun Lee**, Sungil Kang, Rahul Brahma, Kwang-Hwi Cho, and Jae-Min Shin\*, <span style="color:red">Scientific Reports</span>. [<a href="https://doi.org/10.1038/s41598-023-37456-8">Link</a>] 
+- "AiKPro: Deep Learning Model for Kinome-Wide Bioactivity Profiling Using Structure-based Sequence Alignments and Molecular 3D Conformer Ensemble Descriptors"
+  Hyejin Park, Sujeong Hong, **Myeonghun Lee**, Sungil Kang, Rahul Brahma, Kwang-Hwi Cho, and Jae-Min Shin\*, <span style="color:red">Scientific Reports</span>. [<a href="https://doi.org/10.1038/s41598-023-37456-8">Link</a>] 
   
-- **"Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review"**, Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">International Journal of Precision Engineering and Manufacturing-Green Technology</span>. [<a href="https://doi.org/10.1007/s40684-023-00523-6">Link</a>] 
+- "Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review"
+  Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">International Journal of Precision Engineering and Manufacturing-Green Technology</span>. [<a href="https://doi.org/10.1007/s40684-023-00523-6">Link</a>] 
 
-- **"Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning"**, **Myeonghun Lee**<sup>+</sup>, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>. [<a href="https://doi.org/10.1016/j.mtcomm.2022.104208">Link</a>] 
+- "Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning"
+  **Myeonghun Lee**<sup>+</sup>, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>. [<a href="https://doi.org/10.1016/j.mtcomm.2022.104208">Link</a>] 
 
-- **"MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencoder"**, **Myeonghun Lee**<sup>+</sup> and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487">Link</a>] 
+- "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencoder"
+  **Myeonghun Lee**<sup>+</sup> and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487">Link</a>] 
 
-- **"Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks"**, Sumin Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://pubs.acs.org/doi/10.1021/acsomega.2c00697">Link</a>] 
+- "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks"
+  Sumin Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://pubs.acs.org/doi/10.1021/acsomega.2c00697">Link</a>] 
 
-- **"A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network"**, **Myeonghun Lee**<sup>+</sup> and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://doi.org/10.1021/acsomega.1c06274">Link</a>] 
+- "A Comparative Study of the Performance for Predicting Biodegradability Classification: The Quantitative Structure−Activity Relationship Model vs the Graph Convolutional Network"
+  **Myeonghun Lee**<sup>+</sup> and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://doi.org/10.1021/acsomega.1c06274">Link</a>] 
 
 
 ## **News** 
