@@ -18,9 +18,11 @@ You can read my <a href="https://drive.google.com/file/d/1bZ15aLwvguJazrG4KIZO9O
 
 ## **Publications** 
 
-- **"Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design"**, **Myeonghun Lee**<sup>+</sup>, Taehyun Park<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://doi.org/10.1021/acs.jcim.4c01676">Link</a>] 
+- **"Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design"**
+  **Myeonghun Lee**<sup>+</sup>, Taehyun Park<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://doi.org/10.1021/acs.jcim.4c01676">Link</a>] 
   
-- **"Prediction of Protein Aggregation Propensity via Data-driven Approaches"**, Seungpyo Kang<sup>+</sup>, Minseon Kim<sup>+</sup>, Jiwon Sun<sup>+</sup>, **Myeonghun Lee**\*, and Kyoungmin Min\*, <span style="color:red">ACS Biomaterials Science & Engineering</span>. [<a href="https://doi.org/10.1021/acsbiomaterials.3c01001">Link</a>] 
+- **"Prediction of Protein Aggregation Propensity via Data-driven Approaches"**
+  Seungpyo Kang<sup>+</sup>, Minseon Kim<sup>+</sup>, Jiwon Sun<sup>+</sup>, **Myeonghun Lee**\*, and Kyoungmin Min\*, <span style="color:red">ACS Biomaterials Science & Engineering</span>. [<a href="https://doi.org/10.1021/acsbiomaterials.3c01001">Link</a>] 
 
 - **"AmorProt: Amino Acid Molecular Fingerprints Repurposing-based Protein Fingerprint"**, **Myeonghun Lee**<sup>+,</sup>\*, and Kyoungmin Min\*, <span style="color:red">Biochemistry</span>. [<a href="https://doi.org/10.1021/acs.biochem.3c00253">Link</a>] 
 
