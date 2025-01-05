@@ -2,7 +2,9 @@
 layout: default
 ---
 
-![Banner](assets/profile-pic.jpg)
+<div class="banner">
+  ![Banner](assets/profile-pic.jpg)
+</div>
 
 
 I am working as an ML R&D researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, AI-based wearable medical solution company, in Seoul, South Korea. 
