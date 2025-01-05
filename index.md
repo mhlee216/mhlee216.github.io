@@ -7,11 +7,11 @@ layout: default
 
 I am working as an ML R&D researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, AI-based wearable medical solution company, in Seoul, South Korea. 
 
-Previously, I majored in Biotechnology, Bioinformatics, and Big Data Computing in <a href="https://bioinfo.ssu.ac.kr/">**School of Systems Biomedical Science**</a>, <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul. 
+Previously, I majored in Biotechnology, Bioinformatics, and Big Data Computing in <a href="https://bioinfo.ssu.ac.kr/">**School of Systems Biomedical Science**</a>, <a href="https://ssu.ac.kr/">Soongsil University</a>, Seoul. 
 
 I was an undergraduate researcher at <a href="https://csailabssu.quv.kr/">**Computational Science and Artificial Intelligence Lab**</a> (Prof. Kyoungmin Min) at School of Mechanical Engineering, Soongsil University. 
 
-I am broadly interested in studying AI, bioinformatics, cheminformatics, materials informatics, graph neural networks, drug discovery, generative model, data science, natural language processing, computer vision, human-computer interface, and healthcare. 
+I am broadly interested in studying AI, bioinformatics, cheminformatics, materials informatics, graph neural networks, drug discovery, and healthcare. 
 
 You can read my <a href="https://drive.google.com/file/d/1bZ15aLwvguJazrG4KIZO9OVRsanTct6l/view?usp=sharing">Curriculum Vitae</a> if you want.
 
@@ -19,13 +19,13 @@ You can read my <a href="https://drive.google.com/file/d/1bZ15aLwvguJazrG4KIZO9O
 ## **Publications** 
 
 - "Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design", **Myeonghun Lee**<sup>+</sup>, Taehyun Park<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://doi.org/10.1021/acs.jcim.4c01676">Link</a>] 
-  
+
 - "Prediction of Protein Aggregation Propensity via Data-driven Approaches", Seungpyo Kang<sup>+</sup>, Minseon Kim<sup>+</sup>, Jiwon Sun<sup>+</sup>, **Myeonghun Lee**\*, and Kyoungmin Min\*, <span style="color:red">ACS Biomaterials Science & Engineering</span>. [<a href="https://doi.org/10.1021/acsbiomaterials.3c01001">Link</a>] 
 
 - "AmorProt: Amino Acid Molecular Fingerprints Repurposing-based Protein Fingerprint", **Myeonghun Lee**<sup>+,</sup>\*, and Kyoungmin Min\*, <span style="color:red">Biochemistry</span>. [<a href="https://doi.org/10.1021/acs.biochem.3c00253">Link</a>] 
 
 - "AiKPro: Deep Learning Model for Kinome-Wide Bioactivity Profiling Using Structure-based Sequence Alignments and Molecular 3D Conformer Ensemble Descriptors", Hyejin Park, Sujeong Hong, **Myeonghun Lee**, Sungil Kang, Rahul Brahma, Kwang-Hwi Cho, and Jae-Min Shin\*, <span style="color:red">Scientific Reports</span>. [<a href="https://doi.org/10.1038/s41598-023-37456-8">Link</a>] 
-  
+
 - "Natural Language Processing Techniques for Advancing Materials Discovery: A Short Review", Joo Hyuk Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">International Journal of Precision Engineering and Manufacturing-Green Technology</span>. [<a href="https://doi.org/10.1007/s40684-023-00523-6">Link</a>] 
 
 - "Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee**<sup>+</sup>, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>. [<a href="https://doi.org/10.1016/j.mtcomm.2022.104208">Link</a>] 
