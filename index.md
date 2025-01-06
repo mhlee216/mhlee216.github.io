@@ -5,15 +5,7 @@ layout: default
 ![Banner](assets/banner.png)
 
 
-I am working as an ML R&D researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, AI-based wearable medical solution company, in Seoul, South Korea. 
-
-Previously, I majored in Biotechnology, Bioinformatics, and Big Data Computing in <a href="https://bioinfo.ssu.ac.kr/">**School of Systems Biomedical Science**</a>, <a href="https://ssu.ac.kr/">Soongsil University</a>, Seoul. 
-
-I was an undergraduate researcher at <a href="https://csailabssu.quv.kr/">**Computational Science and Artificial Intelligence Lab**</a> (Prof. Kyoungmin Min) at School of Mechanical Engineering, Soongsil University. 
-
-I am broadly interested in studying AI, bioinformatics, cheminformatics, materials informatics, graph neural networks, drug discovery, and healthcare. 
-
-You can read my <a href="https://drive.google.com/file/d/1bZ15aLwvguJazrG4KIZO9OVRsanTct6l/view?usp=sharing">Curriculum Vitae</a> if you want.
+I am working as an ML R&D researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, AI-based wearable medical solution company, in Seoul, South Korea. Previously, I majored in Biotechnology, Bioinformatics, and Big Data Computing in <a href="https://bioinfo.ssu.ac.kr/">**School of Systems Biomedical Science**</a>, <a href="https://ssu.ac.kr/">Soongsil University</a>, Seoul. I was an undergraduate researcher at <a href="https://csailabssu.quv.kr/">**Computational Science and Artificial Intelligence Lab**</a> (Prof. Kyoungmin Min) at School of Mechanical Engineering, Soongsil University. I am broadly interested in studying AI, bioinformatics, cheminformatics, materials informatics, graph neural networks, drug discovery, and healthcare. You can read my <a href="https://drive.google.com/file/d/1bZ15aLwvguJazrG4KIZO9OVRsanTct6l/view?usp=sharing">Curriculum Vitae</a> if you want.
 
 
 ## **Publications** 
