@@ -33,7 +33,7 @@ I am working as an ML R&D researcher at <a href="https://www.huinno.com/">**HUIN
 
 ## **News** 
 
-- **2025.01.** Application and acceptance to the Master's Program in Department of Applied Artificial Intelligence at Sungkyunkwan University, Seoul. 
+- **2025.01.** Application and acceptance to the Master's Program in Department of Applied Artificial Intelligence at Sungkyunkwan University, Seoul, South Korea.  [<a href="https://xai.skku.edu/skkuaai/index.do">Link</a>] 
 
 - **2024.11.** Accepted, "Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design", **Myeonghun Lee**<sup>+</sup>, Taehyun Park<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://doi.org/10.1021/acs.jcim.4c01676">Link</a>] 
 
