@@ -12,25 +12,16 @@ I work as an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, 
 
 ## **Core Values in Life**
 
-**1. Happiness**: We value a life of love and happiness above all else.
-
-**2. Innovation**: We are committed to research so that science can enrich human life.
-
-**3. Impact**: While we pursue profit, we create it through actions that benefit humanity.
-
-**4. Integrity**: We build the future by facing reality at every turn, without lies and exaggerations.
-
-**5. Justice**: We pursue choices that are just and righteous, as well as reasonable and practical.
-
-**6. Passion**: We believe in the importance of working hard and finding pleasure in our work.
-
-**7. Strength**: We seek to be physically, intellectually, economically, and aesthetically strong.
-
-**8. Cooperation**: We believe in helping each other, living in harmony, and growing together.
-
-**9. Learning**: We believe in the importance of lifelong learning until the very end.
-
-**10. Perseverance**: We believe that where there is a will, there is a way.
+1. **Happiness**: We value a life of love and happiness above all else.
+2. **Innovation**: We are committed to research so that science can enrich human life.
+3. **Impact**: While we pursue profit, we create it through actions that benefit humanity.
+4. **Integrity**: We build the future by facing reality at every turn, without lies and exaggerations.
+5. **Justice**: We pursue choices that are just and righteous, as well as reasonable and practical.
+6. **Passion**: We believe in the importance of working hard and finding pleasure in our work.
+7. **Strength**: We seek to be physically, intellectually, economically, and aesthetically strong.
+8. **Cooperation**: We believe in helping each other, living in harmony, and growing together.
+9. **Learning**: We believe in the importance of lifelong learning until the very end.
+10. **Perseverance**: We believe that where there is a will, there is a way.
 
 
 ## **Publications** 
