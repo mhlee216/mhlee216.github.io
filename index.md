@@ -9,6 +9,17 @@ layout: default
 
 I work as an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a digital healthcare company providing AI-based diagnostic solutions located in Seoul, South Korea. Previously, I majored in Biotechnology, Bioinformatics, and Big Data Computing in <a href="https://bioinfo.ssu.ac.kr/">**School of Systems Biomedical Science**</a>, <a href="https://ssu.ac.kr/">Soongsil University</a>, Seoul. I was an undergraduate researcher at <a href="https://csailabssu.quv.kr/">**Computational Science and Artificial Intelligence Lab**</a> (Prof. Kyoungmin Min) at School of Mechanical Engineering, Soongsil University. I am broadly interested in studying AI, bioinformatics, cheminformatics, drug discovery, materials informatics, graph neural networks, and healthcare. You can read my <a href="https://drive.google.com/file/d/1bZ15aLwvguJazrG4KIZO9OVRsanTct6l/view?usp=sharing">Curriculum Vitae</a> if you want.
 
+## **Core Values in Life** 
+**1. Happiness**: We value a life of love and happiness above all else.
+**2. Innovation**: We are committed to research so that science can enrich human life.
+**3. Impact**: While we pursue profit, we create it through actions that benefit humanity.
+**4. Integrity**: We build the future by facing reality at every turn, without lies and exaggerations.
+**5. Justice**: We pursue choices that are just and righteous, as well as reasonable and practical.
+**6. Passion**: We believe in the importance of working hard and finding pleasure in our work.
+**7. Strength**: We seek to be physically, intellectually, economically, and aesthetically strong.
+**8. Cooperation**: We believe in helping each other, living in harmony, and growing together.
+**9. Learning**: We believe in the importance of lifelong learning until the very end.
+**10. Perseverance**: We believe that where there is a will, there is a way.
 
 ## **Publications** 
 
