@@ -12,7 +12,7 @@ I work as an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, 
 
 ## **Core Values in Life**
 
-1. **Happiness**: I value a life of love and happiness above all else.
+1. **Happiness**: I value a life of mutual love and happiness more than anything else.
 2. **Innovation**: I am committed to research so that science can enrich human life.
 3. **Impact**: While I pursue profit, I create it through actions that benefit humanity.
 4. **Integrity**: I build the future by facing reality at every turn, without lies and exaggerations.
