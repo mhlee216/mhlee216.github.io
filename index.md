@@ -19,7 +19,7 @@ I work as an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, 
 5. **Justice**: I pursue choices that are just and righteous, as well as reasonable and practical.
 6. **Passion**: I believe in the importance of working hard and finding pleasure in our work.
 7. **Strength**: I seek to be physically, intellectually, economically, and aesthetically strong.
-8. **Cooperation**: I believe in helping each other, living in harmony, and growing together.
+8. **Cooperation**: I believe that helping each other, communicating, and growing together is the only way to achieve our grand goal.
 9. **Learning**: I believe in the importance of lifelong learning until the very end.
 10. **Perseverance**: I believe that where there is a will, there is a way.
 
