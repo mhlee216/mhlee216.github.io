@@ -47,7 +47,9 @@ I am working as an AI researcher at <a href="https://www.huinno.com/">**HUINNO**
 
 ## **News** 
 
-- **2025.01.** Application and acceptance to the Master's Program in Department of Applied Artificial Intelligence at Sungkyunkwan University, Seoul, South Korea.  [<a href="https://xai.skku.edu/skkuaai/index.do">Link</a>] 
+- **2025.03.** Master's Researcher, Data eXperience Laboratory (Prof. Eunil Park), Department of Applied Artificial Intelligence, Sungkyunkwan University, Seoul, South Korea. [<a href="https://sites.google.com/view/dxlab/intro">Link</a>]
+
+- **2025.01.** Application and acceptance to the Master's Program in the Department of Applied Artificial Intelligence at Sungkyunkwan University, Seoul, South Korea. [<a href="https://xai.skku.edu/skkuaai/index.do">Link</a>] 
 
 - **2024.11.** Accepted, "Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design", **Myeonghun Lee**<sup>+</sup>, Taehyun Park<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://doi.org/10.1021/acs.jcim.4c01676">Link</a>] 
 
@@ -67,7 +69,7 @@ I am working as an AI researcher at <a href="https://www.huinno.com/">**HUINNO**
 
 - **2023.07.** Patent Registration (1025585460000), "An Artificial Intelligence Learning-based Kinase Profiling Device Using Multi-sequence Information of Protein Structure and 3D Structure Descriptor for Predicting Drug Effect and Its Operation Method", AZothBio, Korea Intellectual Property Office. 
 
-- **2023.07.** ML R&D researcher, HUINNO Co., Ltd., Seoul, South Korea. [<a href="https://www.huinno.com/">Link</a>] 
+- **2023.07.** AI Researcher, HUINNO Co., Ltd., Seoul, South Korea. [<a href="https://www.huinno.com/">Link</a>] 
 
 - **2023.06.** Accepted, "AiKPro: Deep Learning Model for Kinome-Wide Bioactivity Profiling Using Structure-based Sequence Alignments and Molecular 3D Conformer Ensemble Descriptors", Hyejin Park, Sujeong Hong, **Myeonghun Lee**, Sungil Kang, Rahul Brahma, Kwang-Hwi Cho, and Jae-Min Shin\*, <span style="color:red">Scientific Reports</span>. [<a href="https://doi.org/10.1038/s41598-023-37456-8">Link</a>] 
 
@@ -122,8 +124,8 @@ Using Graph Convolutional Network", The Excellence Prize (National Research Coun
 
 - **2021.08.** Submitted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*. Samsung Advanced Institute of Technology (SAIT) research project. 
 
-- **2020.07.** Undergraduate Researcher, Computational Science and Artificial Intelligence Lab (Prof. Kyoungmin Min), School of Mechanical Engineering, Soongsil University, Seoul, South Korea. [<a href="https://csailabssu.quv.kr/">Link</a>] 
+- **2020.07.** Undergraduate Researcher, Computational Science and Artificial Intelligence Laboratory (Prof. Kyoungmin Min), School of Mechanical Engineering, Soongsil University, Seoul, South Korea. [<a href="https://csailabssu.quv.kr/">Link</a>] 
 
-- **2019.01.** Undergraduate Intern, Post-Genome Informatics Lab (Prof. Sangsoo Kim), School of Systems Biomedical Science, Soongsil University, Seoul, South Korea. [<a href="https://sites.google.com/site/sskimb/">Link</a>] 
+- **2019.01.** Undergraduate Intern, Post-Genome Informatics Laboratory (Prof. Sangsoo Kim), School of Systems Biomedical Science, Soongsil University, Seoul, South Korea. [<a href="https://sites.google.com/site/sskimb/">Link</a>] 
 
 - **2016.03.** Undergraduate Admission, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea.
