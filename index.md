@@ -47,6 +47,8 @@ I am working as an AI researcher at <a href="https://www.huinno.com/">**HUINNO**
 
 ## **News** 
 
+- **2025.05.** Accepted, "ECG-GraphNet: Advanced Arrhythmia Classification Based on Graph Convolutional Networks", **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, and Jinkook Kim\*, <span style="color:red">Heart Rhythm O2</span>.
+
 - **2025.03.** Master's Researcher, Data eXperience Laboratory (Prof. Eunil Park), Department of Applied Artificial Intelligence, Sungkyunkwan University, Seoul, South Korea. [<a href="https://sites.google.com/view/dxlab/intro">Link</a>]
 
 - **2025.01.** Application and acceptance to the Master's Program in the Department of Applied Artificial Intelligence at Sungkyunkwan University, Seoul, South Korea. [<a href="https://xai.skku.edu/skkuaai/index.do">Link</a>] 
