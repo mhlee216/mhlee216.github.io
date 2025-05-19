@@ -26,7 +26,7 @@ I am working as an AI researcher at <a href="https://www.huinno.com/">**HUINNO**
 
 ## **Publications** 
 
-- "ECG-GraphNet: Advanced Arrhythmia Classification Based on Graph Convolutional Networks", **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, and Jinkook Kim\*, <span style="color:red">Heart Rhythm O2</span>. <span style="color:red">Heart Rhythm O2</span>. [<a href="https://www.heartrhythmopen.com/article/S2666-5018(25)00162-X/fulltext">Link</a>]
+- "ECG-GraphNet: Advanced Arrhythmia Classification Based on Graph Convolutional Networks", **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, and Jinkook Kim\*, <span style="color:red">Heart Rhythm O2</span>. [<a href="https://www.heartrhythmopen.com/article/S2666-5018(25)00162-X/fulltext">Link</a>]
 
 - "Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design", **Myeonghun Lee**<sup>+</sup>, Taehyun Park<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://doi.org/10.1021/acs.jcim.4c01676">Link</a>] 
 
