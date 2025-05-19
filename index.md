@@ -26,6 +26,8 @@ I am working as an AI researcher at <a href="https://www.huinno.com/">**HUINNO**
 
 ## **Publications** 
 
+- "ECG-GraphNet: Advanced Arrhythmia Classification Based on Graph Convolutional Networks", **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, and Jinkook Kim\*, <span style="color:red">Heart Rhythm O2</span>. <span style="color:red">Heart Rhythm O2</span>. [<a href="https://www.heartrhythmopen.com/article/S2666-5018(25)00162-X/fulltext">Link</a>]
+
 - "Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design", **Myeonghun Lee**<sup>+</sup>, Taehyun Park<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://doi.org/10.1021/acs.jcim.4c01676">Link</a>] 
 
 - "Prediction of Protein Aggregation Propensity via Data-driven Approaches", Seungpyo Kang<sup>+</sup>, Minseon Kim<sup>+</sup>, Jiwon Sun<sup>+</sup>, **Myeonghun Lee**\*, and Kyoungmin Min\*, <span style="color:red">ACS Biomaterials Science & Engineering</span>. [<a href="https://doi.org/10.1021/acsbiomaterials.3c01001">Link</a>] 
@@ -47,7 +49,7 @@ I am working as an AI researcher at <a href="https://www.huinno.com/">**HUINNO**
 
 ## **News** 
 
-- **2025.05.** Accepted, "ECG-GraphNet: Advanced Arrhythmia Classification Based on Graph Convolutional Networks", **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, and Jinkook Kim\*, <span style="color:red">Heart Rhythm O2</span>.
+- **2025.05.** Accepted, "ECG-GraphNet: Advanced Arrhythmia Classification Based on Graph Convolutional Networks", **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, and Jinkook Kim\*, <span style="color:red">Heart Rhythm O2</span>. <span style="color:red">Heart Rhythm O2</span>. [<a href="https://www.heartrhythmopen.com/article/S2666-5018(25)00162-X/fulltext">Link</a>] 
 
 - **2025.03.** Master's Researcher, Data eXperience Laboratory (Prof. Eunil Park), Department of Applied Artificial Intelligence, Sungkyunkwan University, Seoul, South Korea. [<a href="https://sites.google.com/view/dxlab/intro">Link</a>]
 
