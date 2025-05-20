@@ -130,6 +130,6 @@ Using Graph Convolutional Network", The Excellence Prize (National Research Coun
 
 - **2020.07.** Undergraduate Researcher, Computational Science and Artificial Intelligence Laboratory (Prof. Kyoungmin Min), School of Mechanical Engineering, Soongsil University, Seoul, South Korea. [<a href="https://csailabyonsei.quv.kr/">Link</a>] 
 
-- **2019.01.** Undergraduate Intern, Post-Genome Informatics Laboratory (Prof. Sangsoo Kim), School of Systems Biomedical Science, Soongsil University, Seoul, South Korea. [<a href="https://bioinfo.ssu.ac.kr/%ED%95%99%EB%B6%80%EC%86%8C%EA%B0%9C/%EA%B5%90%EC%88%98%EC%A7%84%EC%86%8C%EA%B0%9C/">Link</a>] 
+- **2019.01.** Undergraduate Intern, Post-Genome Informatics Laboratory (Prof. Sangsoo Kim), School of Systems Biomedical Science, Soongsil University, Seoul, South Korea. [<a href="https://scholar.google.co.kr/citations?user=OCuQiekAAAAJ&hl=en">Link</a>] 
 
 - **2016.03.** Undergraduate Admission, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea.
