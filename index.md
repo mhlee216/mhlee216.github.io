@@ -49,6 +49,8 @@ I am working as an AI researcher at <a href="https://www.huinno.com/">**HUINNO**
 
 ## **News** 
 
+- **2025.12.** Submitted, "A Deep Learning Approach for Predicting Intraventricular Conduction Abnormalities", Yujin Han<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, Jinkook Kim<sup>+</sup>, Sunghoon Jung<sup>+</sup>, and Il-young Oh\*. 
+
 - **2025.05.** Accepted, "ECG-GraphNet: Advanced Arrhythmia Classification Based on Graph Convolutional Networks", **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, and Jinkook Kim\*, <span style="color:red">Heart Rhythm O2</span>. <span style="color:red">Heart Rhythm O2</span>. [<a href="https://www.heartrhythmopen.com/article/S2666-5018(25)00162-X/fulltext">Link</a>] 
 
 - **2025.03.** Master's Researcher, Data eXperience Laboratory (Prof. Eunil Park), Department of Applied Artificial Intelligence, Sungkyunkwan University, Seoul, South Korea. [<a href="https://sites.google.com/view/dxlab/intro">Link</a>]
