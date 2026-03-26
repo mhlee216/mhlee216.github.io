@@ -7,22 +7,21 @@ layout: default
 
 ## **Introduction** 
 
-I am working as an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a digital healthcare company providing AI-based diagnostic solutions in Seoul, South Korea. At the same time, I am doing my master's research at <a href="https://sites.google.com/view/dxlab/intro">**Data eXperience Laboratory**</a> (Prof. Eunil Park) in **Department of Applied Artificial Intelligence**, <a href="https://www.skku.edu/skku/index.do">**Sungkyunkwan University**</a>, Seoul. Previously, I majored in Biotechnology, Bioinformatics, and Big Data Computing in **School of Systems Biomedical Science** at <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul. I was an undergraduate researcher at <a href="https://csailabyonsei.quv.kr/">**Computational Science and Artificial Intelligence Laboratory**</a> (Prof. Kyoungmin Min) at School of Mechanical Engineering, Soongsil University. I am broadly interested in studying deep learning, bioinformatics, cheminformatics, drug discovery, materials informatics, graph neural networks, and digital healthcare. If you are interested, please read my <a href="https://drive.google.com/file/d/1BHcU-L0KezFsXdGviezq99Zv4R6e91cn/view?usp=drive_link">**Curriculum Vitae**</a>.
+I am an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a digital healthcare company providing AI-based diagnostic solutions in Seoul, South Korea. Concurrently, I am pursuing my master's research at <a href="https://sites.google.com/view/dxlab/intro">**Data eXperience Laboratory**</a> (Prof. Eunil Park) in the **Department of Applied Artificial Intelligence**, <a href="https://www.skku.edu/skku/index.do">**Sungkyunkwan University**</a>, Seoul. Previously, I majored in Biotechnology, Bioinformatics, and Big Data Computing in the **School of Systems Biomedical Science** at <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul. I was an undergraduate researcher at <a href="https://csailabyonsei.quv.kr/">**Computational Science and Artificial Intelligence Laboratory**</a> (Prof. Kyoungmin Min) at the School of Mechanical Engineering, Soongsil University. My research interests broadly span deep learning, bioinformatics, cheminformatics, drug discovery, materials informatics, graph neural networks, and digital healthcare. For more details, please refer to my <a href="https://drive.google.com/file/d/1BHcU-L0KezFsXdGviezq99Zv4R6e91cn/view?usp=drive_link">**Curriculum Vitae**</a>.
 
 
 ## **Core Values in Life**
 
-1. **Happiness**: I see love and happiness as our purpose in life, above all else.
-2. **Innovation**: I am committed to research so that science can enrich human life.
-3. **Impact**: While I pursue profit, I create it through actions that benefit humanity.
-4. **Integrity**: I build the future by facing reality at every turn, without lies and exaggerations.
+1. **Happiness**: I believe love and happiness are life's highest purpose.
+2. **Innovation**: I am committed to research that enriches human life through science.
+3. **Impact**: I aim to create value through actions that benefit humanity.
+4. **Integrity**: I build the future by facing reality at every turn, without lies or exaggerations.
 5. **Justice**: I pursue choices that are just and righteous, as well as reasonable and practical.
 6. **Passion**: I believe in the importance of working hard and finding pleasure in our work.
-7. **Strength**: I seek to be physically, intellectually, economically, and aesthetically strong.
-8. **Collaboration**: I believe that growth through collaboration is the only way to achieve our ambitious goals.
-9. **Learning**: I believe in the importance of lifelong learning until the very end.
+7. **Strength**: I strive for physical, intellectual, economic, and aesthetic excellence.
+8. **Collaboration**: I believe that growth through collaboration is the only way to achieve ambitious goals.
+9. **Learning**: I believe in the importance of lifelong learning.
 10. **Perseverance**: I believe that where there is a will, there is a way.
-
 
 ## **Publications** 
 
@@ -55,7 +54,7 @@ I am working as an AI researcher at <a href="https://www.huinno.com/">**HUINNO**
 
 - **2025.03.** Master's Researcher, Data eXperience Laboratory (Prof. Eunil Park), Department of Applied Artificial Intelligence, Sungkyunkwan University, Seoul, South Korea. [<a href="https://sites.google.com/view/dxlab/intro">Link</a>]
 
-- **2025.01.** Application and acceptance to the Master's Program in the Department of Applied Artificial Intelligence at Sungkyunkwan University, Seoul, South Korea. [<a href="https://xai.skku.edu/skkuaai/index.do">Link</a>] 
+- **2025.01.** Application to and acceptance into the Master's Program in the Department of Applied Artificial Intelligence at Sungkyunkwan University, Seoul, South Korea. [<a href="https://xai.skku.edu/skkuaai/index.do">Link</a>] 
 
 - **2024.11.** Accepted, "Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design", **Myeonghun Lee**<sup>+</sup>, Taehyun Park<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://doi.org/10.1021/acs.jcim.4c01676">Link</a>] 
 
@@ -103,7 +102,7 @@ I am working as an AI researcher at <a href="https://www.huinno.com/">**HUINNO**
 
 - **2022.03.** Submitted, “Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee**<sup>+</sup>, Minseon Kim, and Kyoungmin Min\*. 
 
-- **2022.02.** Graduated from Soongsil University, School of Systems Biomedical Science (Biotechnology, Bioinformatics, Big Data Computing). 
+- **2022.02.** Graduated from the School of Systems Biomedical Science, Soongsil University (Biotechnology, Bioinformatics, Big Data Computing). 
 
 - **2022.02.** Submitted, "MGCVAE: Multi-objective Inverse Design via Molecular Graph Conditional Variational Autoencoder", **Myeonghun Lee**<sup>+</sup> and Kyoungmin Min\*. [<a href="http://arxiv.org/abs/2202.07476">Link</a>] 
 
