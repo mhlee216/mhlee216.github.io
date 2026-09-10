@@ -7,7 +7,7 @@ layout: default
 
 ## **Introduction**
 
-I am an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a Seoul-based digital healthcare company providing AI-based diagnostic solutions. Concurrently, I am pursuing my master's degree at the <a href="https://sites.google.com/view/dxlab/intro">**Data eXperience Laboratory**</a> (advised by Prof. Eunil Park) in the **Department of Applied Artificial Intelligence**, <a href="https://www.skku.edu/skku/index.do">**Sungkyunkwan University**</a>, Seoul. Previously, I majored in Biotechnology, Bioinformatics, and Big Data Computing at the **School of Systems Biomedical Science**, <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul. I was an undergraduate researcher at the <a href="https://csailabyonsei.quv.kr/">**Computational Science and Artificial Intelligence Laboratory**</a> (advised by Prof. Kyoungmin Min) in the School of Mechanical Engineering, Soongsil University. My research interests broadly span deep learning, bioinformatics, cheminformatics, drug discovery, materials informatics, graph neural networks, and digital healthcare. For more details, please refer to my <a href="https://drive.google.com/file/d/1BHcU-L0KezFsXdGviezq99Zv4R6e91cn/view?usp=drive_link">**Curriculum Vitae**</a>.
+I am an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a Seoul-based digital healthcare company providing AI-based diagnostic solutions. Concurrently, I am pursuing my master's degree at the <a href="https://sites.google.com/view/dxlab/intro">**Data eXperience Laboratory**</a> (advised by Prof. Eunil Park) in the **Department of Applied Artificial Intelligence**, <a href="https://www.skku.edu/skku/index.do">**Sungkyunkwan University**</a>, Seoul. Previously, I majored in Biotechnology, Bioinformatics, and Big Data Computing at the **School of Systems Biomedical Science**, <a href="https://ssu.ac.kr/">**Soongsil University**</a>, Seoul. I was an undergraduate researcher at the **Computational Science and Artificial Intelligence Laboratory** (advised by <a href="https://scholar.google.com/citations?user=V8RaXJ0AAAAJ&hl=en">**Prof. Kyoungmin Min**</a>) in the School of Mechanical Engineering, Soongsil University. My research interests broadly span deep learning, bioinformatics, cheminformatics, drug discovery, materials informatics, graph neural networks, and digital healthcare. For more details, please refer to my <a href="https://drive.google.com/file/d/1BHcU-L0KezFsXdGviezq99Zv4R6e91cn/view?usp=drive_link">**Curriculum Vitae**</a>.
 
 
 ## **Core Values in Life**
@@ -49,9 +49,9 @@ I am an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a Seo
 
 ## **News**
 
-- **2026.09.** Patent Registration, "Method and System For Classifying Electrocardiogram Signal", Jinkook Kim, **Myeonghun Lee**, Jiwoo Lim, Sung Hoon Jung, HUINNO, Korea Intellectual Property Office. [<a href="https://doi.org/10.8080/1020240051844">Link</a>]
+- **2026.09.** Patent Registration, "Method and System For Classifying Electrocardiogram Signal", Jinkook Kim, **Myeonghun Lee**, Jiwoo Lim, Sunghoon Jung, HUINNO, Korea Intellectual Property Office. [<a href="https://doi.org/10.8080/1020240051844">Link</a>]
 
-- **2026.07.** Manufacturing Certification (Ministry of Food and Drug Safety), "MEMO CAST" (formerly Vital-PICASO), an AI-based clinical decision support system for predicting the risk of in-hospital cardiac arrest within 24 hours, HUINNO Co., Ltd. and HUINNO AIM. [<a href="https://www.yakup.com/news/index.html?mode=view&nid=329364">Link</a>]
+- **2026.07.** Manufacturing Certification (Ministry of Food and Drug Safety), "MEMO CAST" (formerly Vital-PICASO), an AI-based clinical decision support system for predicting the risk of in-hospital cardiac arrest within 24 hours, HUINNO and HUINNO AIM. [<a href="https://www.yakup.com/news/index.html?mode=view&nid=329364">Link</a>]
 
 - **2026.06.** Clinical trial completed at HUINNO, "Clinical Validity of an AI-Based Biological Signal Analysis Software Vital-PICASO for Predicting the Risk of Hypoxemia within 24hrs Using Vital Sign (SBP, DBP, HR, RR, BT, SpO2) from General Ward Inpatients; A Retrospective, Single-Center, Single-Arm, Superiority-Confirmatory Clinical Trial".
 
@@ -67,15 +67,15 @@ I am an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a Seo
 
 - **2024.11.** Accepted, "Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design", **Myeonghun Lee**<sup>+</sup>, Taehyun Park<sup>+</sup>, and Kyoungmin Min\*, <span style="color:red">Journal of Chemical Information and Modeling</span>. [<a href="https://doi.org/10.1021/acs.jcim.4c01676">Link</a>] 
 
-- **2024.09.** HRX 2024, Heart Rhythm Society (Oral), “A Step Forward in Predictive Cardiology: AI-Driven ECG Algorithm for Predicting the Occurrence of Intraventricular Conduction Abnormalities with Wide QRS Complex”, Jinkook Kim\*, **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, Sung Hoon Jung, and Il-Young Oh. [<a href="https://doi.org/10.1016/j.hrthm.2024.07.059">Link</a>] 
+- **2024.09.** HRX 2024, Heart Rhythm Society (Oral), “A Step Forward in Predictive Cardiology: AI-Driven ECG Algorithm for Predicting the Occurrence of Intraventricular Conduction Abnormalities with Wide QRS Complex”, Jinkook Kim\*, **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, Sunghoon Jung, and Il-Young Oh. [<a href="https://doi.org/10.1016/j.hrthm.2024.07.059">Link</a>] 
 
-- **2024.08.** Patent application at HUINNO, "Method and System For Predicting Occurrence of Abnormal Waveform in Electrocardiogram", **Myeonghun Lee**, Jiwoo Lim, Jinkook Kim, Sung Hoon Jung, Korea Patent. 
+- **2024.08.** Patent application at HUINNO, "Method and System For Predicting Occurrence of Abnormal Waveform in Electrocardiogram", **Myeonghun Lee**, Jiwoo Lim, Jinkook Kim, Sunghoon Jung, Korea Patent. 
 
 - **2024.08.** Submitted, "ECG-GraphNet: Advancing Cardiac Rhythm Analysis through Beat Classification Based on Graph Convolutional Networks", **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, and Jinkook Kim\*. 
 
 - **2024.06.** Submitted, "Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design", **Myeonghun Lee**<sup>+</sup>, Taehyun Park<sup>+</sup>, and Kyoungmin Min\*. 
 
-- **2024.04.** Patent application at HUINNO, "Method and System For Classifying Electrocardiogram Signal", Jinkook Kim, **Myeonghun Lee**, Jiwoo Lim, Sung Hoon Jung, Korea Patent. 
+- **2024.04.** Patent application at HUINNO, "Method and System For Classifying Electrocardiogram Signal", Jinkook Kim, **Myeonghun Lee**, Jiwoo Lim, Sunghoon Jung, Korea Patent. 
 
 - **2023.09.** Accepted, "Prediction of Protein Aggregation Propensity via Data-driven Approaches", Seungpyo Kang<sup>+</sup>, Minseon Kim<sup>+</sup>, Jiwon Sun<sup>+</sup>, **Myeonghun Lee**\*, and Kyoungmin Min\*, <span style="color:red">ACS Biomaterials Science & Engineering</span>. [<a href="https://doi.org/10.1021/acsbiomaterials.3c01001">Link</a>] 
 
@@ -83,7 +83,7 @@ I am an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a Seo
 
 - **2023.07.** Patent Registration (1025585460000), "An Artificial Intelligence Learning-based Kinase Profiling Device Using Multi-sequence Information of Protein Structure and 3D Structure Descriptor for Predicting Drug Effect and Its Operation Method", AZothBio, Korea Intellectual Property Office. 
 
-- **2023.07.** AI Researcher, HUINNO Co., Ltd., Seoul, South Korea. [<a href="https://www.huinno.com/">Link</a>] 
+- **2023.07.** AI Researcher, HUINNO, Seoul, South Korea. [<a href="https://www.huinno.com/">Link</a>] 
 
 - **2023.06.** Accepted, "AiKPro: Deep Learning Model for Kinome-Wide Bioactivity Profiling Using Structure-based Sequence Alignments and Molecular 3D Conformer Ensemble Descriptors", Hyejin Park<sup>+</sup>, Sujeong Hong<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, Sungil Kang, Rahul Brahma, Kwang-Hwi Cho, and Jae-Min Shin\*, <span style="color:red">Scientific Reports</span>. [<a href="https://doi.org/10.1038/s41598-023-37456-8">Link</a>] 
 
@@ -95,7 +95,7 @@ I am an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a Seo
 
 - **2023.02.** Submitted, "AmorProt: Amino Acid Molecular Fingerprints Repurposing-based Protein Fingerprint", **Myeonghun Lee**<sup>+,</sup>\*, and Kyoungmin Min\*. [<a href="https://arxiv.org/abs/2303.16209">Link</a>] 
 
-- **2023.01.** Patent application at AZothBio, "An artificial intelligence learning-based kinase profiling device using multi-sequence information of protein structure and 3D structure descriptor for predicting drug effect and its operation method", Jae-Min Shin, Hyejin Park, Sujeong Hong, Sungil Kang, **Myeonghun Lee**, Korea Patent. 
+- **2023.01.** Patent application at AZothBio, "An Artificial Intelligence Learning-based Kinase Profiling Device Using Multi-sequence Information of Protein Structure and 3D Structure Descriptor for Predicting Drug Effect and Its Operation Method", Jae-Min Shin, Hyejin Park, Sujeong Hong, Sungil Kang, **Myeonghun Lee**, Korea Patent. 
 
 - **2022.11.** 2022 Korean Artificial Intelligence Association & NAVER Fall Conference (Poster), “MoReProt: Prediction of Amyloid Sequence Using Molecular Fingerprints Recombination-based Protein Fingerprint”, **Myeonghun Lee**<sup>+</sup> and Kyoungmin Min\*. [<a href="https://drive.google.com/file/d/1rzVbMSkesUy0I03xM6nBFQOmuUwBHovR/view?usp=sharing">Link</a>] 
 
@@ -107,7 +107,7 @@ I am an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a Seo
 
 - **2022.03.** Accepted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*, <span style="color:red">ACS Omega</span>. [<a href="https://pubs.acs.org/doi/10.1021/acsomega.2c00697">Link</a>] 
 
-- **2022.03.** AI Researcher, AzothBio, Seoul, South Korea. [<a href="http://www.azothbio.com/">Link</a>] 
+- **2022.03.** AI Researcher, AZothBio, Seoul, South Korea. [<a href="http://www.azothbio.com/">Link</a>] 
 
 - **2022.03.** Submitted, “Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee**<sup>+</sup>, Minseon Kim, and Kyoungmin Min\*. 
 
@@ -137,8 +137,8 @@ I am an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a Seo
 
 - **2021.08.** Submitted, "Novel Solubility Prediction Models: Molecular Fingerprints and Physicochemical Features vs. Graph Convolutional Neural Networks", Sumin Lee<sup>+</sup>, **Myeonghun Lee**<sup>+</sup>, Ki-Won Gyak, Sung Dug Kim, Mi-Jeong Kim\*, and Kyoungmin Min\*. Samsung Advanced Institute of Technology (SAIT) research project. 
 
-- **2020.07.** Undergraduate Researcher, Computational Science and Artificial Intelligence Laboratory (Prof. Kyoungmin Min), School of Mechanical Engineering, Soongsil University, Seoul, South Korea. [<a href="https://csailabyonsei.quv.kr/">Link</a>] 
+- **2020.07.** Undergraduate Researcher, Computational Science and Artificial Intelligence Laboratory (Prof. Kyoungmin Min, now at Yonsei University), School of Mechanical Engineering, Soongsil University, Seoul, South Korea. [<a href="https://scholar.google.com/citations?user=V8RaXJ0AAAAJ&hl=en">Link</a>] 
 
 - **2019.01.** Undergraduate Intern, Post-Genome Informatics Laboratory (Prof. Sangsoo Kim), School of Systems Biomedical Science, Soongsil University, Seoul, South Korea. [<a href="https://scholar.google.co.kr/citations?user=OCuQiekAAAAJ&hl=en">Link</a>] 
 
-- **2016.03.** Undergraduate Admission, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea.
+- **2016.03.** Undergraduate Admission, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea.dergraduate Admission, School of Systems Biomedical Science, Soongsil University, Seoul, South Korea.
