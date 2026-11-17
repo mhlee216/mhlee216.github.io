@@ -49,31 +49,31 @@ I am an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a Seo
 
 ## **Patents**
 
-- "Method and System For Classifying Electrocardiogram Signal", Jinkook Kim, **Myeonghun Lee**, Jiwoo Lim, and Sunghoon Jung, HUINNO, Korea Patent, Registered (2026.09). [<a href="https://doi.org/10.8080/1020240051844">Link</a>]
+- "Method and System For Classifying Electrocardiogram Signal", Jinkook Kim, **Myeonghun Lee**, Jiwoo Lim, and Sunghoon Jung, HUINNO, <span style="color:red">Korea Patent</span>, Registered (2026.09). [<a href="https://doi.org/10.8080/1020240051844">Link</a>]
 
-- "Method and System For Analyzing Continuous Biosignals", **Myeonghun Lee** and Sibaek Seong, HUINNO, Korea Patent, Applied (2026.03).
+- "Method and System For Analyzing Continuous Biosignals", **Myeonghun Lee** and Sibaek Seong, HUINNO, <span style="color:red">Korea Patent</span>, Applied (2026.03).
 
-- "Method and System For Predicting Occurrence of Abnormal Waveform in Electrocardiogram", **Myeonghun Lee**, Jiwoo Lim, Jinkook Kim, and Sunghoon Jung, HUINNO, Korea Patent, Applied (2024.08).
+- "Method and System For Predicting Occurrence of Abnormal Waveform in Electrocardiogram", **Myeonghun Lee**, Jiwoo Lim, Jinkook Kim, and Sunghoon Jung, HUINNO, <span style="color:red">Korea Patent</span>, Applied (2024.08).
 
-- "An Artificial Intelligence Learning-based Kinase Profiling Device Using Multi-sequence Information of Protein Structure and 3D Structure Descriptor for Predicting Drug Effect and Its Operation Method", Jae-Min Shin, Hyejin Park, Sujeong Hong, Sungil Kang, and **Myeonghun Lee**, AZothBio, Korea Patent, Registered (2023.07, No. 1025585460000).
+- "An Artificial Intelligence Learning-based Kinase Profiling Device Using Multi-sequence Information of Protein Structure and 3D Structure Descriptor for Predicting Drug Effect and Its Operation Method", Jae-Min Shin, Hyejin Park, Sujeong Hong, Sungil Kang, and **Myeonghun Lee**, AZothBio, <span style="color:red">Korea Patent</span>, Registered (2023.07, No. 1025585460000).
 
 
 ## **Awards**
 
-- **The Grand Prize** (Ministry of Science and ICT's Award, 과학기술정보통신부 장관상), 2022 Research Data Analysis Utilization Contest, "Prediction of Isoelectric Point Using Atomic-level Protein Fingerprints", 2022. [<a href="https://youtu.be/9y-DmOX4zc4?t=7265">Link</a>]
+- **The Grand Prize** (Ministry of Science and ICT's Award, <span style="color:red">과학기술정보통신부 장관상</span>), 2022 Research Data Analysis Utilization Contest, "Prediction of Isoelectric Point Using Atomic-level Protein Fingerprints", 2022. [<a href="https://youtu.be/9y-DmOX4zc4?t=7265">Link</a>]
 
-- **The Excellence Prize** (National Research Council of Science & Technology Chairman's Award, 국가과학기술연구회 이사장상), 2021 Research Data AI Analysis Utilization Contest, "Singlet-Triplet Energy Gap Prediction Using Graph Convolutional Network", 2021. [<a href="https://www.kisti.re.kr/promote/post/news/5422?t=1641877298563">Link</a>]
+- **The Excellence Prize** (National Research Council of Science & Technology Chairman's Award, <span style="color:red">국가과학기술연구회 이사장상</span>), 2021 Research Data AI Analysis Utilization Contest, "Singlet-Triplet Energy Gap Prediction Using Graph Convolutional Network", 2021. [<a href="https://www.kisti.re.kr/promote/post/news/5422?t=1641877298563">Link</a>]
 
 
 ## **News**
 
-- **2026.09.** Patent Registration, "Method and System For Classifying Electrocardiogram Signal", Jinkook Kim, **Myeonghun Lee**, Jiwoo Lim, Sunghoon Jung, HUINNO, Korea Patent. [<a href="https://doi.org/10.8080/1020240051844">Link</a>]
+- **2026.09.** Patent Registration, "Method and System For Classifying Electrocardiogram Signal", Jinkook Kim, **Myeonghun Lee**, Jiwoo Lim, Sunghoon Jung, HUINNO, <span style="color:red">Korea Patent</span>. [<a href="https://doi.org/10.8080/1020240051844">Link</a>]
 
 - **2026.07.** Manufacturing Certification, "MEMO CAST" (formerly Vital-PICASO), an AI-based clinical decision support system for predicting the risk of in-hospital cardiac arrest within 24 hours, HUINNO and HUINNO AIM, <span style="color:red">Ministry of Food and Drug Safety</span>. [<a href="https://www.yakup.com/news/index.html?mode=view&nid=329364">Link</a>]
 
 - **2026.06.** Clinical Trial Completed, "Clinical Validity of an AI-Based Biological Signal Analysis Software Vital-PICASO for Predicting the Risk of Hypoxemia within 24hrs Using Vital Sign (SBP, DBP, HR, RR, BT, SpO2) from General Ward Inpatients; A Retrospective, Single-Center, Single-Arm, Superiority-Confirmatory Clinical Trial", HUINNO, <span style="color:red">Ministry of Food and Drug Safety</span>.
 
-- **2026.03.** Patent Application, "Method and System For Analyzing Continuous Biosignals", **Myeonghun Lee**, Sibaek Seong, HUINNO, Korea Patent.
+- **2026.03.** Patent Application, "Method and System For Analyzing Continuous Biosignals", **Myeonghun Lee**, Sibaek Seong, HUINNO, <span style="color:red">Korea Patent</span>.
 
 - **2026.01.** Clinical Trial Completed, "Clinical Validity of an AI-Based Biological Signal Analysis Software Vital-PICASO for Predicting the Risk of Hypotension within 24hrs Using Vital Sign (SBP, DBP, HR, RR, BT, SpO2) from General Ward Inpatients; A Retrospective, Single-Center, Single-Arm, Superiority-Confirmatory Clinical Trial", HUINNO, <span style="color:red">Ministry of Food and Drug Safety</span>.
 
@@ -89,19 +89,19 @@ I am an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a Seo
 
 - **2024.09.** Oral Presentation, "A Step Forward in Predictive Cardiology: AI-Driven ECG Algorithm for Predicting the Occurrence of Intraventricular Conduction Abnormalities with Wide QRS Complex", Jinkook Kim\*, **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, Sunghoon Jung, and Il-Young Oh, <span style="color:red">HRX Live 2024, Heart Rhythm Society</span>. [<a href="https://doi.org/10.1016/j.hrthm.2024.07.059">Link</a>] 
 
-- **2024.08.** Patent Application, "Method and System For Predicting Occurrence of Abnormal Waveform in Electrocardiogram", **Myeonghun Lee**, Jiwoo Lim, Jinkook Kim, Sunghoon Jung, HUINNO, Korea Patent. 
+- **2024.08.** Patent Application, "Method and System For Predicting Occurrence of Abnormal Waveform in Electrocardiogram", **Myeonghun Lee**, Jiwoo Lim, Jinkook Kim, Sunghoon Jung, HUINNO, <span style="color:red">Korea Patent</span>. 
 
 - **2024.08.** Submitted, "ECG-GraphNet: Advancing Cardiac Rhythm Analysis through Beat Classification Based on Graph Convolutional Networks", **Myeonghun Lee**<sup>+</sup>, Jiwoo Lim<sup>+</sup>, and Jinkook Kim\*. 
 
 - **2024.06.** Submitted, "Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design", **Myeonghun Lee**<sup>+</sup>, Taehyun Park<sup>+</sup>, and Kyoungmin Min\*. 
 
-- **2024.04.** Patent Application, "Method and System For Classifying Electrocardiogram Signal", Jinkook Kim, **Myeonghun Lee**, Jiwoo Lim, Sunghoon Jung, HUINNO, Korea Patent. 
+- **2024.04.** Patent Application, "Method and System For Classifying Electrocardiogram Signal", Jinkook Kim, **Myeonghun Lee**, Jiwoo Lim, Sunghoon Jung, HUINNO, <span style="color:red">Korea Patent</span>. 
 
 - **2023.09.** Accepted, "Prediction of Protein Aggregation Propensity via Data-driven Approaches", Seungpyo Kang<sup>+</sup>, Minseon Kim<sup>+</sup>, Jiwon Sun<sup>+</sup>, **Myeonghun Lee**\*, and Kyoungmin Min\*, <span style="color:red">ACS Biomaterials Science & Engineering</span>. [<a href="https://doi.org/10.1021/acsbiomaterials.3c01001">Link</a>] 
 
 - **2023.08.** Accepted, "AmorProt: Amino Acid Molecular Fingerprints Repurposing-based Protein Fingerprint", **Myeonghun Lee**<sup>+,</sup>\*, and Kyoungmin Min\*, <span style="color:red">Biochemistry</span>. [<a href="https://doi.org/10.1021/acs.biochem.3c00253">Link</a>] 
 
-- **2023.07.** Patent Registration (No. 1025585460000), "An Artificial Intelligence Learning-based Kinase Profiling Device Using Multi-sequence Information of Protein Structure and 3D Structure Descriptor for Predicting Drug Effect and Its Operation Method", Jae-Min Shin, Hyejin Park, Sujeong Hong, Sungil Kang, **Myeonghun Lee**, AZothBio, Korea Patent. 
+- **2023.07.** Patent Registration (No. 1025585460000), "An Artificial Intelligence Learning-based Kinase Profiling Device Using Multi-sequence Information of Protein Structure and 3D Structure Descriptor for Predicting Drug Effect and Its Operation Method", Jae-Min Shin, Hyejin Park, Sujeong Hong, Sungil Kang, **Myeonghun Lee**, AZothBio, <span style="color:red">Korea Patent</span>. 
 
 - **2023.07.** AI Researcher, HUINNO, Seoul, South Korea. [<a href="https://www.huinno.com/">Link</a>] 
 
@@ -115,11 +115,11 @@ I am an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a Seo
 
 - **2023.02.** Submitted, "AmorProt: Amino Acid Molecular Fingerprints Repurposing-based Protein Fingerprint", **Myeonghun Lee**<sup>+,</sup>\*, and Kyoungmin Min\*. [<a href="https://arxiv.org/abs/2303.16209">Link</a>] 
 
-- **2023.01.** Patent Application, "An Artificial Intelligence Learning-based Kinase Profiling Device Using Multi-sequence Information of Protein Structure and 3D Structure Descriptor for Predicting Drug Effect and Its Operation Method", Jae-Min Shin, Hyejin Park, Sujeong Hong, Sungil Kang, **Myeonghun Lee**, AZothBio, Korea Patent. 
+- **2023.01.** Patent Application, "An Artificial Intelligence Learning-based Kinase Profiling Device Using Multi-sequence Information of Protein Structure and 3D Structure Descriptor for Predicting Drug Effect and Its Operation Method", Jae-Min Shin, Hyejin Park, Sujeong Hong, Sungil Kang, **Myeonghun Lee**, AZothBio, <span style="color:red">Korea Patent</span>. 
 
 - **2022.11.** Poster Presentation, "MoReProt: Prediction of Amyloid Sequence Using Molecular Fingerprints Recombination-based Protein Fingerprint", **Myeonghun Lee**<sup>+</sup> and Kyoungmin Min\*, <span style="color:red">2022 Korean Artificial Intelligence Association & NAVER Fall Conference</span>. [<a href="https://drive.google.com/file/d/1rzVbMSkesUy0I03xM6nBFQOmuUwBHovR/view?usp=sharing">Link</a>] 
 
-- **2022.09.** The Grand Prize (Ministry of Science and ICT's Award, 과학기술정보통신부 장관상), "Prediction of Isoelectric Point Using Atomic-level Protein Fingerprints", <span style="color:red">2022 Research Data Analysis Utilization Contest</span>. [<a href="https://youtu.be/9y-DmOX4zc4?t=7265">Link</a>] 
+- **2022.09.** The Grand Prize (Ministry of Science and ICT's Award, <span style="color:red">과학기술정보통신부 장관상</span>), "Prediction of Isoelectric Point Using Atomic-level Protein Fingerprints", 2022 Research Data Analysis Utilization Contest. [<a href="https://youtu.be/9y-DmOX4zc4?t=7265">Link</a>] 
 
 - **2022.08.** Accepted, "Evaluation of Principal Features for Predicting Bulk and Shear Modulus of Inorganic Solids with Machine Learning", **Myeonghun Lee**<sup>+</sup>, Minseon Kim, and Kyoungmin Min\*, <span style="color:red">Materials Today Communications</span>. [<a href="https://doi.org/10.1016/j.mtcomm.2022.104208">Link</a>] 
 
@@ -139,7 +139,7 @@ I am an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a Seo
 
 - **2021.12.** Poster Presentation, "Multi-class Multi-label Enzyme Function Classification Using Graph Convolutional Network", **Myeonghun Lee**<sup>+</sup> and Kyoungmin Min\*, <span style="color:red">2021 Fall International Convention of The Pharmaceutical Society of Korea</span>. 
 
-- **2021.11.** The Excellence Prize (National Research Council of Science & Technology Chairman's Award, 국가과학기술연구회 이사장상), "Singlet-Triplet Energy Gap Prediction Using Graph Convolutional Network", <span style="color:red">2021 Research Data AI Analysis Utilization Contest</span>. [<a href="https://www.kisti.re.kr/promote/post/news/5422?t=1641877298563">Link</a>] 
+- **2021.11.** The Excellence Prize (National Research Council of Science & Technology Chairman's Award, <span style="color:red">국가과학기술연구회 이사장상</span>), "Singlet-Triplet Energy Gap Prediction Using Graph Convolutional Network", 2021 Research Data AI Analysis Utilization Contest. [<a href="https://www.kisti.re.kr/promote/post/news/5422?t=1641877298563">Link</a>] 
 
 - **2021.11.** Oral Presentation, "Enhanced Biodegradability Classification through Graph Convolution Networks", **Myeonghun Lee**<sup>+</sup> and Kyoungmin Min\*, <span style="color:red">2021 Korea Data Mining Society Fall Conference</span>. 
 
