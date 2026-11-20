@@ -67,6 +67,8 @@ I am an AI researcher at <a href="https://www.huinno.com/">**HUINNO**</a>, a Seo
 
 ## **News**
 
+- **2026.11.** Submitted, "A Personalization Approach for Deep Learning-Based Early Warning Systems in General Wards", **Myeonghun Lee**, Jaeseong Jang, Inkyu Kim, and Jinkook Kim\*, <span style="color:red">11th International Workshop on Health Intelligence (W3PHIAI-27), AAAI 2027</span>.
+
 - **2026.09.** Patent Registration, "Method and System For Classifying Electrocardiogram Signal", Jinkook Kim, **Myeonghun Lee**, Jiwoo Lim, Sunghoon Jung, HUINNO, <span style="color:red">Korea Patent</span>. [<a href="https://doi.org/10.8080/1020240051844">Link</a>]
 
 - **2026.07.** Manufacturing Certification, "MEMO CAST" (formerly Vital-PICASO), an AI-based clinical decision support system for predicting the risk of in-hospital cardiac arrest within 24 hours, HUINNO and HUINNO AIM, <span style="color:red">Ministry of Food and Drug Safety</span>. [<a href="https://www.yakup.com/news/index.html?mode=view&nid=329364">Link</a>]
